@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Title: phone
+! Expires: 刚刚
+! Version: 202102251422
+! Last Modified: 202102251422
+! Homepage: https://github.com/dxy521/ad
+! AdGuard Chinese filter+CJX's Annoyance List+CJX's uBlock list
+! 感谢各位前辈的分享！
+!
