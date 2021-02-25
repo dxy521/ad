@@ -1,0 +1,29 @@
+自用搜集的广告过滤规则
+订阅组合推荐：1. ad-pc + CJX's uBlock list ； 2. EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + cjx-ublock ； 3. EasyList + AdGuard Chinese filter + AdGuard Tracking Protection filter 。
+HalfLife多规则整合：
+ https://halflife.coding.net/p/list/d/list/git/raw/master/ad-pc.txt
+ https://cdn.jsdelivr.net/gh/o0HalfLife0o/list/ad3.txt
+ https://gitee.com/halflife/list/raw/master/ad.txt
+单规则整合：
+EasyList: https://easylist-downloads.adblockplus.org/easylist.txt
+EasyList Lite: https://gitee.com/cjx82630/cjxlist/raw/master/cjxlist.txt
+                       https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjxlist.txt
+Easylist China: https://easylist-downloads.adblockplus.org/easylistchina.txt
+EasyPrivacy: https://easylist-downloads.adblockplus.org/easyprivacy.txt
+CJX's Annoyance List: https://gitee.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt
+                                       https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-annoyance.txt
+CJX's uBlock list: https://gitee.com/cjx82630/cjxlist/raw/master/cjx-ublock.txt
+                              https://cdn.jsdelivr.net/gh/cjx82630/cjxlist@master/cjx-ublock.txt
+uBlock filters: https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssets@master/filters/filters.txt
+AdGuard Chinese filter: https://filters.adtidy.org/extension/ublock/filters/224.txt
+                                           https://filters.adtidy.org/android/filters/224.txt
+AdGuard Base filter + EasyList: https://filters.adtidy.org/extension/ublock/filters/2.txt
+                                                       https://filters.adtidy.org/android/filters/2.txt
+AdGuard Base filter: https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
+AdGuard Mobile Ads filter: https://filters.adtidy.org/extension/ublock/filters/11.txt
+                                                 https://filters.adtidy.org/android/filters/2.txt
+AdGuard Tracking Protection filter: https://filters.adtidy.org/extension/ublock/filters/3.txt
+                                                                https://filters.adtidy.org/android/filters/3.txt
+乘风视频: https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt
+大圣净化视频: https://cdn.staticaly.com/gh/jdlingyu/ad-wars/master/hosts
+1024: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
