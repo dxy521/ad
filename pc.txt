@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Title: phone
+! Title: pc
 ! Expires: 12 hours
-! Version: 201412030951
-! Last Modified: 201412030952
+! Version: 202102251422
+! Last Modified: 202102251422
 ! Homepage: https://github.com/dxy521/ad
 ! 乘风视频+EasyList+AdGuard Tracking Protection filter
 ! 感谢各位前辈的分享！
