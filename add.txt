@@ -1,4 +1,4 @@
-! Title: add
+ï»¿! Title: add
 ! Version: 202102282007
 !
 ! halflife
@@ -248,15 +248,15 @@ cam4.com##.xmlAdsWrapper
 chaturbate.com##IMG[rel="nofollow"]
 chaturbate.com##.ad
 chaturbate.com##.banner
-! ÖÐ»ªÍøÏÐÖÃ2·ÖÖÓ¹ã¸æ
+! ä¸­åŽç½‘é—²ç½®2åˆ†é’Ÿå¹¿å‘Š
 junshi.china.com###mod-box
 junshi.china.com##.w_xiao>.side_bdgg
 toutiao.china.com###js-free-time-show
 ! COCOmanhua
 @@||cdndx.clouddata8g.xyz^$script,domain=www.cocomanhua.com
-! µÍ¶ËÓ°ÊÓ
+! ä½Žç«¯å½±è§†
 ||ddrk.me/vjs-plugins/videojs.das.min.js
-!Í¨ÓÃÈ¥³ýdplayer²¥·ÅÆ÷logo   https://bbs.kafan.cn/forum.php?mod=redirect&goto=findpost&ptid=2180923&pid=46929896
+!é€šç”¨åŽ»é™¤dplayeræ’­æ”¾å™¨logo   https://bbs.kafan.cn/forum.php?mod=redirect&goto=findpost&ptid=2180923&pid=46929896
 ##.dplayer-logo
 ###sponsorAdDiv
 ###sponsorAdCountdown
@@ -475,10 +475,9 @@ blog.csdn.net##.clearfix.csdn-toolbar
 blog.csdn.net##.clearfix.floatL.top_user_info .follow
 blog.csdn.net##.feed-Sign-span
 blog.csdn.net##.btn_open_app_prompt_div
-app.myzaker.com##.left.wap-top
 app.myzaker.com##.zk_top_bar
-app.myzaker.com##.perview_img_div.content_img_div
 app.myzaker.com##.show.comment-out-box
+app.myzaker.com###id_imagebox_2
 tophub.today##.weui-tab__content > [href]
 tophub.today##.weui-search-bar
 xueqiu.com##.swiper__fix__container.swiper__container--stock.index_swiper__container--old_2Xt.index_swiper__fix__container_1r9
