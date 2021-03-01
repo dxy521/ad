@@ -1,5 +1,5 @@
 ﻿! Title: add
-! Version: 202102282007
+! Version: 202103012200
 !
 ! halflife
 ! Fix for MS Edge
@@ -505,3 +505,36 @@ wap.kukudm.com##.bottom
 18comic.vip##div.list-col.col-xs-6.col-sm-3.col-md-3.col-lg-3:nth-of-type(4)
 18comic.vip##div.row:nth-of-type(3)
 18comic1.one##.c0348-b_d
+www.onlinedoctranslator.com##.adtester-container-110.adtester-container.box-2110.box-2.ezoic-ad
+www.onlinedoctranslator.com##.adtester-container-111.adtester-container.box-3111.box-3.ezoic-ad
+www.onlinedoctranslator.com##.adtester-container-103.adtester-container.large-leaderboard-2103.large-leaderboard-2.ezoic-ad
+www.onlinedoctranslator.com##.adtester-container-112.adtester-container.medrectangle-3112.medrectangle-3.ezoic-ad
+www.onlinedoctranslator.com##.adtester-container-114.adtester-container.leader-1114.leader-1.ezoic-ad
+www.onlinedoctranslator.com###ezmobfooter .ezmob-footer-desktop.ezo_ad.ezoic-floating-bottom.ezmob-footer
+www.onlinedoctranslator.com###google_ads_iframe_\/21732118914\/onlinedoctranslator_com-medrectangle-3_0
+www.onlinedoctranslator.com###google_ads_iframe_\/21732118914\/onlinedoctranslator_com-leader-1_0__container__
+www.onlinedoctranslator.com##.grid-flex.extra.wrap.ads-wrap
+www.onlinedoctranslator.com###ezmobfooter .ezmob-footer-desktop.ezo_ad.ezoic-floating-bottom.ezmob-footer
+www.onlinedoctranslator.com###google_ads_iframe_\/21732118914\/onlinedoctranslator_com-large-mobile-banner-1_0__container__
+www.onlinedoctranslator.com##.adtester-container-131.adtester-container.large-mobile-banner-1131.large-mobile-banner-1.ezoic-ad
+||ezoic.net^$3p
+||ezojs.com^$3p
+/ezoic/*$script,1p
+##.ezoic-floating-bottom
+||g.doubleclick.net^$3p
+##.ezoic-ad
+##.ezo_ad
+##.ezmob-footer
+##.adtester-container
+##.ads-wrap
+/porpoiseant/*
+||moatads.com^$3p
+/detroitchicago/rochester.js
+/detroitchicago/tampa.js
+/detroitchicago/raleigh.js
+/detroitchicago/minneapolis.js
+/detroitchicago/memphis.js
+/detroitchicago/houston.js
+/detroitchicago/boise.js
+/adservice.$domain=~adservice.io
+||amazon-adsystem.com^$3p
