@@ -478,6 +478,9 @@ blog.csdn.net##.btn_open_app_prompt_div
 app.myzaker.com##.zk_top_bar
 app.myzaker.com##.show.comment-out-box
 app.myzaker.com###id_imagebox_2
+www.myzaker.com##.zk_top_bar
+www.myzaker.com##.show.comment-out-box
+www.myzaker.com###id_imagebox_2
 tophub.today##.weui-tab__content > [href]
 tophub.today##.weui-search-bar
 xueqiu.com##.swiper__fix__container.swiper__container--stock.index_swiper__container--old_2Xt.index_swiper__fix__container_1r9
