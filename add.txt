@@ -1,5 +1,5 @@
 ﻿! Title: add
-! Version: 202103012200
+! Version: 202103032334
 !
 ! halflife
 ! Fix for MS Edge
@@ -495,7 +495,7 @@ m.douban.com##.TalionNav-static
 m.douban.com##.disable.oia-wrap > .oia-btn
 m.douban.com##.show-all
 m.douban.com##.card > div > div
-wap.kukudm.com##.bottom
+||img.kukudm.com/ala.jpg$image
 18comic1.one##.partialViewSlider-right.partialViewSlider-backdrop
 18comic1.one###partial-view
 18comic1.one##.fa-chevron-left.fas
