@@ -1,5 +1,5 @@
 ﻿! Title: add
-! Version: 202103032334
+! Version: 202103041717
 !
 ! halflife
 ! Fix for MS Edge
@@ -541,3 +541,17 @@ www.onlinedoctranslator.com##.adtester-container-131.adtester-container.large-mo
 /detroitchicago/boise.js
 /adservice.$domain=~adservice.io
 ||amazon-adsystem.com^$3p
+openys.cn##.sidebar > .widget_custom_html.widget.widget_text
+openys.cn##.affix.-roll > .widget_custom_html.widget.widget_text
+||lcy124.oss-cn-beijing.aliyuncs.com/20200509145408.jpg$image
+openys.cn##.sticky > ul
+||img.alicdn.com/i2/1772564136/O1CN01znScXk1gQKiZMHQYP_!!1772564136.jpg$image
+openys.cn##pre
+||img.alicdn.com/i4/2094760936/O1CN01EPU5yk1ImjMypwEhl_!!0-item_pic.jpg$image
+||img.alicdn.com/i4/1672983357/O1CN01KfjTWI1afYFfz8czH_!!1672983357.jpg$image
+||img.alicdn.com/i3/198053875/O1CN01lEQs3a1eUnMFOy1tf_!!198053875.jpg$image
+||img.alicdn.com/i2/509442286/O1CN01H2jqDU1Sl240gilO9_!!0-item_pic.jpg$image
+||img.alicdn.com/i1/2206447137299/O1CN015EK8TI23mzXpu4lX5_!!0-item_pic.jpg$image
+||img.alicdn.com/i2/3429510198/O1CN011jqP2k1DKj3yXfteJ_!!0-item_pic.jpg$image
+www.f4mm.com##div.col-md-6:nth-of-type(1)
+www.f4mm.com##.text-center.col-sm-12.offset-md-1.col-md-10 > .row
