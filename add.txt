@@ -1,5 +1,5 @@
 ﻿! Title: add
-! Version: 202103041717
+! Version: 202103091733
 !
 ! halflife
 ! Fix for MS Edge
@@ -555,3 +555,15 @@ openys.cn##pre
 ||img.alicdn.com/i2/3429510198/O1CN011jqP2k1DKj3yXfteJ_!!0-item_pic.jpg$image
 www.f4mm.com##div.col-md-6:nth-of-type(1)
 www.f4mm.com##.text-center.col-sm-12.offset-md-1.col-md-10 > .row
+m.baidu.com##._2F1mx
+18comic1.one##div.col-xs-6.col-sm-3.col-md-3.col-lg-3:nth-of-type(1)
+18comic1.one##div.col-xs-6.col-sm-3.col-md-3.col-lg-3:nth-of-type(4)
+18comic1.one##div.col-xs-6.col-sm-3.col-md-3.col-lg-3:nth-of-type(3)
+18comic1.one##div.col-xs-6.col-sm-3.col-md-3.col-lg-3:nth-of-type(2)
+||18comic1.one/templates/frontend/airav/img/float-right-open.png$image
+||18comic1.one/templates/frontend/airav/img/float-right-close.png$image
+18comic1.one##.top-a2db.c5fb-8c_4
+||18comic1.one/static/resources/images/AD/20210309-1.gif$image
+18comic1.one##.footer
+18comic1.one##.col-lg-7 > .c5fb-8c_4
+18comic1.one##.hidden-xs.c5fb-8c_4.well
