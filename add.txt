@@ -118,3 +118,18 @@ m.baidu.com##._2F1mx
 18comic1.one##.footer
 18comic1.one##.col-lg-7 > .c5fb-8c_4
 18comic1.one##.hidden-xs.c5fb-8c_4.well
+max.book118.com###re_title_4
+max.book118.com###re_front_1
+max.book118.com###re_shop_2
+max.book118.com###re_title_3
+max.book118.com###re_tag_5
+max.book118.com###re_course_6
+||img.book118.com/sr1/M00/27/0F/wKh2AmAJJO6IWcUMAAA9CGPxpSkAAo_rAHoJsYAAD0g513.png$image
+max.book118.com###re_front_9
+max.book118.com##.service-shop
+||static.book118.com/user_center_v1/static/home/images/lazy/load.png$image
+wap.kukudm.com##div.classBox.autoHeight:last-child > div.bottom:last-child > div:nth-child(7)
+18comic1.one###wrapper > div.container:nth-child(9) > div.b2aeb-00_ce.top-a2db:first-child
+coolapk.com###apk_right > div.download_right
+coolapk.com###apk_right
+coolapk.com##div.warpper:first-child > div.container:nth-child(2) > div.app_left:nth-child(2) > div.left_download:last-child
