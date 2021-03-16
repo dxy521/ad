@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 202103161338
+! Version: 202103161522
 
 m.weibo.cn##.wrap
 baijiahao.baidu.com##.headDeflectorContainer
@@ -131,3 +131,5 @@ max.book118.com##.service-shop
 wap.kukudm.com##div.classBox.autoHeight:last-child > div.bottom:last-child > div:nth-child(7)
 18comic1.one###wrapper > div.container:nth-child(9) > div.b2aeb-00_ce.top-a2db:first-child
 www.coolapk.com##DIV.under
+18comic1.one##.b2aeb-00_ce top-a2db
+18comic1.one##.b2aeb-00_ce
