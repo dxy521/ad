@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 202103142209
+! Version: 202103161338
 
 m.weibo.cn##.wrap
 baijiahao.baidu.com##.headDeflectorContainer
@@ -130,6 +130,4 @@ max.book118.com##.service-shop
 ||static.book118.com/user_center_v1/static/home/images/lazy/load.png$image
 wap.kukudm.com##div.classBox.autoHeight:last-child > div.bottom:last-child > div:nth-child(7)
 18comic1.one###wrapper > div.container:nth-child(9) > div.b2aeb-00_ce.top-a2db:first-child
-coolapk.com###apk_right > div.download_right
-coolapk.com###apk_right
-coolapk.com##div.warpper:first-child > div.container:nth-child(2) > div.app_left:nth-child(2) > div.left_download:last-child
+www.coolapk.com##DIV.under
