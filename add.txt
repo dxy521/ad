@@ -133,3 +133,31 @@ wap.kukudm.com##div.classBox.autoHeight:last-child > div.bottom:last-child > div
 www.coolapk.com##DIV.under
 18comic1.one##.b2aeb-00_ce top-a2db
 18comic1.one##.b2aeb-00_ce
+||ddrk.me/vjs-plugins/videojs.das.min.js
+##.dplayer-logo
+###sponsorAdDiv
+###sponsorAdCountdown
+###adleft
+###adright
+nfmovies.com##[src*="/pic/tu/"]
+nfmovies.com##[src*="/static/"]
+||nfmovies.com/templets/default/images/js/layer/layer.js
+nfmovies.com###aaaDiv
+nfmovies.com###zzzif
+nfmovies.com###zzzif2
+nfmovies.com###aaaCountdown
+nfmovies.com###aaaDiv2
+nfmovies.com##.fa fa-volume-down
+nfmovies.com##.close-box.tips
+nfmovies.com##.hidden-xs.dropdown-hover
+nfmovies.com##li.dropdown-hover:nth-of-type(9)
+nfmovies.com##.myui-player__operate > li:nth-of-type(1)
+nfmovies.com##.myui-player__operate > li:nth-of-type(4)
+nfmovies.com##.myui-player__operate > li:nth-of-type(5)
+nfmovies.com##+js(nano-sib)
+nfmovies.com##+js(nostif, container)
+nfmovies.com##body:style(opacity:1!important)
+nfmovies.com##body > div.hidden-xs
+@@||www.nfmovies.com/static/side.jpg
+@@||www.nfmovies.com/pic/tu/banner-03.jpg
+@@||www.nfmovies.com/pic/tu/banner03.jpg
