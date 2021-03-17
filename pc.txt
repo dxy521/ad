@@ -137,6 +137,7 @@ wenku.baidu.com##.static.tool-bar-wrapper
 wenku.baidu.com##.tips
 wenku.baidu.com##.bar-content
 wenku.baidu.com##.color-plate
+wenku.baidu.com##.vip-activity-content
 ! EasyList
 &act=ads_
 &ad.vid=$~xmlhttprequest
