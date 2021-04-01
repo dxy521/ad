@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 20210330
+! Version: 20210401
 m.weibo.cn##.wrap
 baijiahao.baidu.com##.headDeflectorContainer
 www.36kr.com##.kr-mobile-goapp
@@ -205,6 +205,12 @@ www.douyu.com##.Aside-footer
 www.douyu.com##div.Aside-menu-block:nth-of-type(6)
 www.douyu.com##div.Aside-menu-block:nth-of-type(7)
 www.baidu.com##[tpl="right_recommends_merge"]
+wap.kukudm.com##[style="height:200px;line-height:1px;"]
+m.mzitu.com##.banner
+m.mzitu.com##.page-banner
+m.mzitu.com##footer
+m.mzitu.com###content [href="https://m.mzitu.com/app/"]
+m.mzitu.com##[href="https://mmzztt.com/"]
 127.0.0.1 0bfn6.redirectvoluum.com
 127.0.0.1 0oaqgsk54hm5.com
 127.0.0.1 0ol1l0.wapad.work
