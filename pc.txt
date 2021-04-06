@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 20210401
+! Version: 20210406
 m.weibo.cn##.wrap
 baijiahao.baidu.com##.headDeflectorContainer
 www.36kr.com##.kr-mobile-goapp
@@ -42,7 +42,6 @@ m.douban.com##.TalionNav-static
 m.douban.com##.disable.oia-wrap > .oia-btn
 m.douban.com##.show-all
 m.douban.com##.card > div > div
-||img.kukudm.com/ala.jpg$image
 openys.cn##.sidebar > .widget_custom_html.widget.widget_text
 openys.cn##.affix.-roll > .widget_custom_html.widget.widget_text
 ||lcy124.oss-cn-beijing.aliyuncs.com/20200509145408.jpg$image
@@ -68,7 +67,6 @@ max.book118.com###re_course_6
 max.book118.com###re_front_9
 max.book118.com##.service-shop
 ||static.book118.com/user_center_v1/static/home/images/lazy/load.png$image
-wap.kukudm.com##div.classBox.autoHeight:last-child > div.bottom:last-child > div:nth-child(7)
 www.coolapk.com##DIV.under
 ||ddrk.me/vjs-plugins/videojs.das.min.js
 ##.dplayer-logo
@@ -205,12 +203,43 @@ www.douyu.com##.Aside-footer
 www.douyu.com##div.Aside-menu-block:nth-of-type(6)
 www.douyu.com##div.Aside-menu-block:nth-of-type(7)
 www.baidu.com##[tpl="right_recommends_merge"]
-wap.kukudm.com##[style="height:200px;line-height:1px;"]
 m.mzitu.com##.banner
 m.mzitu.com##.page-banner
 m.mzitu.com##footer
 m.mzitu.com###content [href="https://m.mzitu.com/app/"]
 m.mzitu.com##[href="https://mmzztt.com/"]
+m.baidu.com##.rw-list-container2.rw-list-container > .c-line-clamp1
+m.baidu.com##.c-invoke-show-class__NcU4a.c-line-clamp1
+m.baidu.com##.animation.c-bg-color-white.new-ux-recom-wrapper.c-recomm-wrap > .c-line-ivkmask.c-line-clamp1
+baijiahao.baidu.com##.backFlowText
+baijiahao.baidu.com##.openImg
+baijiahao.baidu.com##.related-news > ._3Lg9_aL1ZIf7Ry_XN0wdHc > ._1T6TbV3IOYsTyKUDLU3h5K > ._2zI_1HDV_e-G25lK7muW14
+baijiahao.baidu.com###page_wrapper > div > div > ._3Lg9_aL1ZIf7Ry_XN0wdHc > ._1T6TbV3IOYsTyKUDLU3h5K > ._2zI_1HDV_e-G25lK7muW14
+baijiahao.baidu.com##._1-nFvWd71g07irMlxzeVz_
+baijiahao.baidu.com##._2XKy-X8cYkv-8A7g0HIRIi.thtUQTKu7DxOlhuSFOPN-
+mbd.baidu.com##.headDeflectorContainer
+mbd.baidu.com##.openImg
+mbd.baidu.com##.backFlowText
+mbd.baidu.com##._2XKy-X8cYkv-8A7g0HIRIi.thtUQTKu7DxOlhuSFOPN-
+mbd.baidu.com##._1dZbwpATPO52gYzG5MIML
+mbd.baidu.com##.related-news > ._3Lg9_aL1ZIf7Ry_XN0wdHc > ._1T6TbV3IOYsTyKUDLU3h5K > ._2zI_1HDV_e-G25lK7muW14
+mbd.baidu.com###page_wrapper > div > div > ._3Lg9_aL1ZIf7Ry_XN0wdHc > ._1T6TbV3IOYsTyKUDLU3h5K > ._2zI_1HDV_e-G25lK7muW14
+mbd.baidu.com##._1-nFvWd71g07irMlxzeVz_
+mbd.baidu.com##._5TD71NBUVAL0mtzdpUZWj.uukjsi6a_zpZccrqYiI3k
+m.baidu.com##.se-head-logo
+h5.xinpianchang.com##.download-new
+h5.xinpianchang.com##.showMore-box
+h5.xinpianchang.com##.footerBox
+h5.xinpianchang.com##.collection-good-box
+h5.xinpianchang.com##.review
+www.xinpianchang.com##.app-download-bar.download
+h5.xinpianchang.com##.activity-bar
+wap.kukudm.com##div:nth-of-type(4)
+wap.kukudm.com##[src="https://img.kukudm.com/ala.jpg"]
+wap.kukudm.com##.record
+wap.kukudm.com##.tXjNHNrZ
+||img.alicdn.com/imgextra/i2/2084935272/O1CN01KU3DxV1oocaeOF3EJ_!!2084935272.gif$image
+wap.kukudm.com###YFHJZZKPAL343 > [src="https://img.alicdn.com/imgextra/i2/2084935272/O1CN01KU3DxV1oocaeOF3EJ_!!2084935272.gif"]
 127.0.0.1 0bfn6.redirectvoluum.com
 127.0.0.1 0oaqgsk54hm5.com
 127.0.0.1 0ol1l0.wapad.work
