@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 20210406
+! Version: 20210407
 m.weibo.cn##.wrap
 baijiahao.baidu.com##.headDeflectorContainer
 www.36kr.com##.kr-mobile-goapp
@@ -240,6 +240,18 @@ wap.kukudm.com##.record
 wap.kukudm.com##.tXjNHNrZ
 ||img.alicdn.com/imgextra/i2/2084935272/O1CN01KU3DxV1oocaeOF3EJ_!!2084935272.gif$image
 wap.kukudm.com###YFHJZZKPAL343 > [src="https://img.alicdn.com/imgextra/i2/2084935272/O1CN01KU3DxV1oocaeOF3EJ_!!2084935272.gif"]
+www.xvideos.com###dsktp-title-comment
+www.xvideos.com##.mobile-hide.menu-login-acct.btn-login.btn
+www.xvideos.com##.mobile-hide.menu-login-acct.btn-default.btn
+cn.pornhub.com###topRightProfileMenu
+cn.pornhub.com##.headerBtnsWrapper
+18comic1.one##[data-group="sticky1"]
+18comic1.one##[class="bot-per visible-xs visible-sm"]
+18comic1.one##.a1b23-01_d3-div
+lanzous.com##[style^="color: #8a6d3b;"]
+lanzous.com##[class="n_foot"]
+www.baidu.com##[class="hint_right_middle"]
+###left-box
 127.0.0.1 0bfn6.redirectvoluum.com
 127.0.0.1 0oaqgsk54hm5.com
 127.0.0.1 0ol1l0.wapad.work
