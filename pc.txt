@@ -252,6 +252,17 @@ lanzous.com##[style^="color: #8a6d3b;"]
 lanzous.com##[class="n_foot"]
 www.baidu.com##[class="hint_right_middle"]
 ###left-box
+mp.weixin.qq.com##p:nth-of-type(28)
+mp.weixin.qq.com##p:nth-of-type(27)
+mp.weixin.qq.com##p:nth-of-type(24)
+mp.weixin.qq.com##p:nth-of-type(2)
+mp.weixin.qq.com##p:nth-of-type(1)
+mp.weixin.qq.com##p:nth-of-type(20)
+mp.weixin.qq.com##p:nth-of-type(21)
+mp.weixin.qq.com##.rich_pages
+mp.weixin.qq.com###js_content > section > section > section > section > section > section > section > section > section > section > section > section > section > section > section
+mp.weixin.qq.com##section:nth-of-type(3)
+||mmbiz.qpic.cn/mmbiz_gif/F1hLEK71icuDqiaEzSWkXSYYbNLGafm0OSCtibmNc163qtTMs8eJAuzub6fBnZjfoxsKaR1Eviaev3gGdIEazSO8XA/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1$image
 127.0.0.1 0bfn6.redirectvoluum.com
 127.0.0.1 0oaqgsk54hm5.com
 127.0.0.1 0ol1l0.wapad.work

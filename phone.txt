@@ -252,6 +252,17 @@ lanzous.com##[style^="color: #8a6d3b;"]
 lanzous.com##[class="n_foot"]
 www.baidu.com##[class="hint_right_middle"]
 ###left-box
+mp.weixin.qq.com##p:nth-of-type(28)
+mp.weixin.qq.com##p:nth-of-type(27)
+mp.weixin.qq.com##p:nth-of-type(24)
+mp.weixin.qq.com##p:nth-of-type(2)
+mp.weixin.qq.com##p:nth-of-type(1)
+mp.weixin.qq.com##p:nth-of-type(20)
+mp.weixin.qq.com##p:nth-of-type(21)
+mp.weixin.qq.com##.rich_pages
+mp.weixin.qq.com###js_content > section > section > section > section > section > section > section > section > section > section > section > section > section > section > section
+mp.weixin.qq.com##section:nth-of-type(3)
+||mmbiz.qpic.cn/mmbiz_gif/F1hLEK71icuDqiaEzSWkXSYYbNLGafm0OSCtibmNc163qtTMs8eJAuzub6fBnZjfoxsKaR1Eviaev3gGdIEazSO8XA/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1$image
 #%#var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
 #%#var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
 #%#var AG_removeElementBySelector = function(selector) { if (!document.querySelectorAll) { return; } var nodes = document.querySelectorAll(selector); if (nodes) { for (var i = 0; i < nodes.length; i++) { if (nodes[i] && nodes[i].parentNode) { nodes[i].parentNode.removeChild(nodes[i]); } } } };
