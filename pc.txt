@@ -1,12 +1,9 @@
 ! Title: 自用
-! Version: 20210407
+! Version: 202104072228
 m.weibo.cn##.wrap
 baijiahao.baidu.com##.headDeflectorContainer
 www.36kr.com##.kr-mobile-goapp
 www.36kr.com##.logo-container
-m.bilibili.com##.m-navbar
-m.bilibili.com##.m-video2-float-openapp
-m.bilibili.com##.visible-open-app-btn.m-video-main-openapp.open-app-btn > .m-video2-openapp-img
 www.iesdouyin.com##.header--3IVpR
 baijiahao.baidu.com##.uukjsi6a_zpZccrqYiI3k
 3g.163.com##.widget-slider-article-content
@@ -106,7 +103,6 @@ wenku.baidu.com##.static.tool-bar-wrapper
 wenku.baidu.com##.tips
 wenku.baidu.com##.bar-content
 wenku.baidu.com##.color-plate
-m.bilibili.com##.m-home-float-openapp
 www.ccb.com##body > .index_x_banner
 m.mm131.net##[src="/css/bannerb.png"]
 m.mm131.net##.close
@@ -263,6 +259,48 @@ mp.weixin.qq.com##.rich_pages
 mp.weixin.qq.com###js_content > section > section > section > section > section > section > section > section > section > section > section > section > section > section > section
 mp.weixin.qq.com##section:nth-of-type(3)
 ||mmbiz.qpic.cn/mmbiz_gif/F1hLEK71icuDqiaEzSWkXSYYbNLGafm0OSCtibmNc163qtTMs8eJAuzub6fBnZjfoxsKaR1Eviaev3gGdIEazSO8XA/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1$image
+jingyan.baidu.com##.task-panel-entrance
+jingyan.baidu.com##.fresh-share-exp-e
+jingyan.baidu.com##.wrp-exp-share
+jingyan.baidu.com##.wgt-like
+jingyan.baidu.com##.main-aside
+jingyan.baidu.com##.footer
+www.douyu.com##.recommendApp-0e23eb
+www.douyu.com##.is-show.GuessGameMiniPanelB-wrapper
+movie.youku.com##.u-panel_3C81k.panel_asGkf
+||img.alicdn.com/tfs/TB1.JQ_irY1gK0jSZTEXXXDQVXa-1116-342.png$image
+movie.youku.com##.show_C8p0e.info-bottom_3C0mQ
+movie.youku.com##.fixed_bar_2rZMG
+www.youku.com##.show_C8p0e.info-bottom_3C0mQ
+www.youku.com##.fixed_bar_2rZMG
+v.qq.com##.x_fixed_tool
+v.qq.com##.main_feature
+www.bilibili.com##.login-tip
+www.bilibili.com##.ggpos.bypb-window
+www.bilibili.com###reportFirst2 > .bypb-window
+www.bilibili.com##.live-tabs
+www.bilibili.com###bili_report_anime > div.space-between > .home-slide.special-recommend
+www.bilibili.com##.r-con > .home-slide.special-recommend > .carousel
+www.bilibili.com##.report-wrap-module.home-slide.special-recommend
+www.bilibili.com##.ifmt
+www.bilibili.com##.gg.operate-card
+www.bilibili.com##.footer_right
+www.bilibili.com##.b-footer-wrap.partner
+www.bilibili.com##.contact-help
+m.baidu.com##[style="overflow: hidden;background: #fff;"]
+m.baidu.com##[class="noTapColor use-festival"]
+m.baidu.com##[id="userinfo-wrap"]
+m.baidu.com##.top.menu-icon-layout
+m.bilibili.com##.home-float-openapp.open-app-btn
+m.bilibili.com##.visible-open-app-btn.m-video-main-openapp.open-app-btn
+m.bilibili.com##.open-app
+m.bilibili.com##.m-float-openapp.open-app-btn
+m.bilibili.com##.m-nav-openapp.open-app-btn
+m.bilibili.com##.right > .face
+18comic1.one##[style$="padding: 5px 0px;"]
+18comic1.one##[class="bot-per-times"]
+18comic1.one##[data-group="sticky1"]
+18comic1.one##[class="bot-per-back"]
 127.0.0.1 0bfn6.redirectvoluum.com
 127.0.0.1 0oaqgsk54hm5.com
 127.0.0.1 0ol1l0.wapad.work
