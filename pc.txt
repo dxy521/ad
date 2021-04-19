@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 20210417
+! Version: 20210419
 m.weibo.cn##.wrap
 baijiahao.baidu.com##.headDeflectorContainer
 www.36kr.com##.kr-mobile-goapp
@@ -342,7 +342,16 @@ xw.qq.com##.shareA.jsx-3819145385
 xw.qq.com##.channel-entry.jsx-2375966888
 xw.qq.com##.fixed.footer.jsx-2005580460
 baike.baidu.com##[style="height: 146.025px"]
-
+www.cocomanhua.com##.exo-native-widget-outer-container
+ddbiquge.cc/ddbd/new
+xyqxs.cc/js/book
+miaoshuzhai.com/js/lazyload
+m.miaoshuzhai.com##.zw1ljPz
+m.xyqxs.cc##.zw1ljPz
+qq717.com/js/wap
+m.qq717.com##.zw1ljPz
+huanyue123.com/js/xiyuan
+899zw.com/js/common
 127.0.0.1 0bfn6.redirectvoluum.com
 127.0.0.1 0oaqgsk54hm5.com
 127.0.0.1 0ol1l0.wapad.work
