@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 20210419
+! Version: 20210422
 m.weibo.cn##.wrap
 baijiahao.baidu.com##.headDeflectorContainer
 www.36kr.com##.kr-mobile-goapp
@@ -317,9 +317,6 @@ lanzoux.com##[class="n_foot"]
 lanzous.com##[style^="color: #8a6d3b;"]
 lanzous.com##[class="n_foot"]
 lanzous.com##.foot_info
-lanzou*.com##[style^="color: #8a6d3b;"]
-lanzou*.com##[class="n_foot"]
-lanzou*.com##.foot_info
 ! -------------结束
 mp.weixin.qq.com##[data-mpa-powered-by="yiban.io"]
 haokan.baidu.com##[class="adv skeletonbg ec_result"]
@@ -352,6 +349,7 @@ qq717.com/js/wap
 m.qq717.com##.zw1ljPz
 huanyue123.com/js/xiyuan
 899zw.com/js/common
+byokpg.smartapps.cn##.tb-ad
 127.0.0.1 0bfn6.redirectvoluum.com
 127.0.0.1 0oaqgsk54hm5.com
 127.0.0.1 0ol1l0.wapad.work
