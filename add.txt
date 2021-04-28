@@ -1,6 +1,8 @@
 ! Title: 自用
-! Version: 202104272219
-
+! Version: 20210428
+! -------------屏蔽指定类型
+!--------$inline-script,domain=m.xiaoshuo588.com--------!屏蔽所有inline-script
+!--------$script,domain=m.xiaoshuo588.com--------!屏蔽所有script
 !----------------cjx-ublock start------------------------!
 1010jiajiao.com##+js(aopr,jdrand)
 3g.163.com##+js(set,specialHideAd,true)
@@ -1070,8 +1072,6 @@ _yad_jsonp_
 ##.ytp-ad-progress-list
 ##a.download-app
 ##div.download-app
-
-!----------------------------------------- 
 ###_embed_v3_dc
 ###a_ad
 ###ad_banner
@@ -1123,7 +1123,6 @@ _yad_jsonp_
 ###windlocation
 ###write_ad
 ###xinnxi
-!--------------------------------------------
 ##[class*="-ad-body"]
 ##[class^="adv-doc-top"]
 ##[class^="hww53CMqxtL__mobile-promo"][aria-label="promo"][role="region"][jsaction]
@@ -5242,7 +5241,6 @@ u8.hujiang.com
 www.hao123.com##div#ecom,div.widget-topbanner,A.link.download,#shortcut-box,#shortcut-box~*,div[monkey=yixing],.siye,#leftbannerv2
 iciba.com##div[class|=ad],div.newpc-entry
 ||cdn.iciba.com/web/co/ci/$image
-! bbs.nga.cn
 g1.tagtic.cn
 qiushibaike.com##div.shopwindow
 ||3.ssqzj.com/
@@ -5283,7 +5281,6 @@ quandangdang.net
 dieka888.com
 ||mtime.cn/library/*/Goods$script
 trade.mtime.com
-!service.mall.mtime.com
 ||com/pic/fgr/$script,object-subrequest
 ||log1.17173.com/
 ||luckstatic.v1.cn/st/10000/
@@ -6752,7 +6749,7 @@ pan.baidu.com##.upload-bar.global-clearfix
 */widget/spage_game_tab/$domain=tieba.baidu.com
 !----------------halflife stop------------------------!
 
-!----------------补充 start------------------------!
+!----------------other start------------------------!
 0.0.0.0    s.lianmeng.360.cn
 0.0.0.0    api.so.lianmeng.360.cn
 0.0.0.0    atanx.alicdn.com
@@ -6792,7 +6789,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 ||cppblog.com/css/common.css
 ||google-analytics.com^
 ||googletagservices.com^
-www.youtube.com##.ytp-gradient-top
 |https://pic*.zhimg.com/*|ad*.*$image
 |https://voidlinux.org/assets/css/snow.css
 |http://img.zhiding.cn/moudlepic/*
@@ -6800,7 +6796,6 @@ www.youtube.com##.ytp-gradient-top
 ||is.golangtc.com/bar/*! Medium, "open in app" floating at the bottom
 iask.sina.com.cn/hwj/dfh?*
 ||u.dji.com/ads/*
-! Cloudflare rocketscript
 /cdn-cgi/pe/bag2?r[]=*u.dji.com%2Fads%2F*
 /*/canvas-nest.js
 /*/canvas-nest.min.js
@@ -6814,7 +6809,6 @@ resu8.hjfile.cn/*$image
 ||static.jfcdns.com^$script
 |http://*/pc/tt/gg_*$image,object,script,subdocument
 ||c.k429fma.com^
-! m.shumilou.net
 |http://meiyu.laogesuan.com/*
 |http://sube.puwangkj.com/*
 |m.666ccc.com/ssp/m_top.js
@@ -6942,8 +6936,7 @@ common/analytics.js$script
 ||googletagmanager.com^$third-party
 ||histats.com^$third-party
 ||tjqonline.cn^
-
-!----------------补充 stop------------------------!
+!----------------other stop------------------------!
 
 !----------------me start------------------------!
 m.weibo.cn##.wrap
@@ -7135,6 +7128,9 @@ lanzoux.com##.foot_copy
 lanzous.com##[style^="color: #8a6d3b;"]
 lanzous.com##[class="n_foot"]
 lanzous.com##.foot_info
+lanzoui.com##[style^="color: #8a6d3b;"]
+lanzoui.com##[class="n_foot"]
+lanzoui.com##.foot_info
 ! -------------结束
 mp.weixin.qq.com##[data-mpa-powered-by="yiban.io"]
 haokan.baidu.com##[class="adv skeletonbg ec_result"]
@@ -7172,4 +7168,13 @@ m.weibo.cn##.card22.m-panel.card
 m.weibo.cn##.card-list > div > .weibo-member.card9.m-panel.card > .card-wrap > .card-main > .card-title
 m.weibo.cn##.slide-wrap.card-main
 cn.bing.com###b_notificationContainer_bop
+www.jianshu.com##[alt="reward"]
+www.jianshu.com##[tabindex="0"]
+www.jianshu.com##[aria-label="抽奖关闭"]
+www.jianshu.com##[type="button"]
+www.jianshu.com##[style^="height: 110px"]
+xiaoshuo588.com/book3272$inline-script
+xiaoshuo588.com/3/3272$inline-script
+m.bilibili.com#@#div[class$="-openapp"]
+m.bilibili.com#@#.open-app-btn
 !----------------me stop------------------------!
