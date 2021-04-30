@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 202104301514
+! Version: 202104301557
 
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
@@ -8764,4 +8764,5 @@ tophub.today###search-in-node
 www.myzaker.com##div.btn:nth-of-type(1)
 www.myzaker.com##.qrcode-block
 www.52pojie.cn##[src="source/plugin/csu_wechat_scan/image/scan.gif"]
+m.baidu.com##.se-ft-promlink
 !----------------me stop------------------------!
