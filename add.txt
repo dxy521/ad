@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 20210501
+! Version: 202105012010
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
@@ -13,6 +13,14 @@
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !--------|http*$subdocument,domain=u17.com|music.baidu.com
 !----------------me start------------------------!
+h5.xinpianchang.com##.download
+h5.xinpianchang.com##.sixin-btn
+byokpg.smartapps.cn##[class="tb-ad"]
+byokpg.smartapps.cn##[class="ad"]
+byokpg.smartapps.cn##ad
+m.liulanqi.net##body > .ALIKE
+m.liulanqi.net##.bg.news_info.news_detail > .ALIKE
+www.cnblogs.com###blog_post_info
 m.baidu.com##.book-card
 m.baidu.com##.icon-listen
 m.baidu.com##.listen-bar
