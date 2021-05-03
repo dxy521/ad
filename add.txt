@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 20210502
+! Version: 20210503
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
@@ -13,6 +13,67 @@
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !--------|http*$subdocument,domain=u17.com|music.baidu.com
 !----------------me start------------------------!
+www.bilibili.com##.clearfix.h5-download-bar.d-f-s
+thumbzilla.com###greeting
+##[id^="div-gpt-ad"]
+##.ezoic-floating-bottom
+##.ezoic-ad
+##.ezo_ad
+##.ezmob-footer
+##.adtester-container
+##.ads-wrap
+/porpoiseant/*
+||ezoic.net^
+||imasdk.googleapis.com^$3p
+/detroitchicago/houston.js
+||realsrv.com^
+##.remove-ads
+###video-ad
+###ad-header-mobile-contener
+###ad-footer
+/_xa/ads_
+/ht.js?site_
+||trafficjunky.com^$3p
+pornhub.com##.sniperModeEngaged
+##.ad-link
+pornhub.com##.video-wrapper > #player + [class]
+##.sponsor-text
+/_xa/ads?
+||twinrdsrv.com^$3p
+_300x250_
+##.advertisement-box
+##a[href^="https://www.iyalc.com/"]
+porndoe.com##.vpb-content
+||pgonews.pro^
+##.video-side__adv_title
+###adsense1
+||riverpush.com^
+||adtng.com^
+||resalag.com^
+||o333o.com^
+tube8.com##div[style="background-color: rgb(255, 255, 255); display: block;"]
+##a[href^="https://sexsimulator.game/tab/?SID="]
+tube8.com##a[href*="?ats="]
+|https://$xmlhttprequest,domain=tube8.com
+www.4tube.com##.nyo-rdo
+www.4tube.com##.la-jessy-frame
+www.4tube.com##.jessy-grid
+4tube.com##img[src][style][width]
+4tube.com##a[href*="/redirect-channel/"]
+4tube.com##.cpp
+##.ad_footer
+##.ad_container
+###ad_player
+||4tube.com/assets/abpe-
+||4tube.com/assets/padb-
+||4tube.com/assets/adn-
+||4tube.com/assets/adf-
+||exosrv.com^
+movie.youku.com##.show_C8p0e.info-bottom_3C0mQ
+www.iqiyi.com###nav_userBox > div > .qy-popup-box
+www.iqiyi.com##[data-pingback-name$="_vip"]
+www.iqiyi.com##.floaterPannel.top.qy-popup-box > .signin-btn
+v.qq.com##.main_feature
 ||cdn.jsdelivr.net/gh/xmzt/static/mzitu$script,domain=m.mzitu.com
 h5.xinpianchang.com##.download
 h5.xinpianchang.com##.sixin-btn
