@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 20210505
+! Version: 202105052134
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
@@ -13,6 +13,31 @@
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !--------|http*$subdocument,domain=u17.com|music.baidu.com
 !----------------me start------------------------!
+@@||s3.amazonaws.com^$xhr,domain=github.com
+www.baidu.com##.s_side_wrapper-left.guide-info-new
+www.iqiyi.com##.integral-list
+m.iqiyi.com##.m-iqylink-guide
+m.iqiyi.com##.iqiyi-h5-empty.header-app
+www.youku.com##.text-content_3W7SR
+www.youku.com##.content_25Psf
+www.youku.com##.u-vip_3-BwE
+www.youku.com##.ad-banner-wrapper
+m.youku.com##.Corner
+m.youku.com##.close
+m.youku.com##.h5-detail-vip-guide.clipboard
+m.youku.com##.h5-detail-guide.clipboard
+m.youku.com##.x-full-video
+m.v.qq.com##.site-top__open-app
+m.v.qq.com##.at-app-banner
+m.v.qq.com##.mod_game_rec.mod_box
+m.v.qq.com##.U_box_bg_a.mod_sideslip_privileges.mod_box
+m.v.qq.com##.mod_app_banner
+m.v.qq.com##.mod_source_box_fixed_bottom.mod_source_box_fixed.swiper-container-android.swiper-container-horizontal.mod_source_box
+m.v.qq.com##.swiper-slide-active.source_item_fadeIn.source_item_origin.swiper-slide.source_item
+m.v.qq.com##.mod_promotion
+m.v.qq.com##.mod_multi_figures_h.mod_sideslip_h.mod_box
+m.v.qq.com##.mod_source
+m.v.qq.com##.js_open_app.btn_user_hd
 v.youku.com##.qr-wrap
 v.youku.com##.information-tips
 v.youku.com##.content_25Psf
