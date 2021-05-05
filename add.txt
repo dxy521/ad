@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 20210503
+! Version: 20210505
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
@@ -13,6 +13,33 @@
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !--------|http*$subdocument,domain=u17.com|music.baidu.com
 !----------------me start------------------------!
+v.youku.com##.qr-wrap
+v.youku.com##.information-tips
+v.youku.com##.content_25Psf
+www.dy10000.com##.padding-0.col-xs-1.col-lg-wide-75 > [href]
+www.iqiyi.com##.detail-sd
+www.iqiyi.com##.iqp-integral-inner
+www.iqiyi.com##.J-download-title.header-sideItemCon > div
+www.iqiyi.com##.T-icon-game
+www.iqiyi.com##.J-vip-pay.header-vip-login.header-sideItemCon > div
+www.iqiyi.com##.op-txt
+||static-s.iqiyi.com/common/20200707/qiyue2.0/d3/28/ca02fe9895ac47af853a9aa813445d641262761083981543552.png$image
+||commercialvalue.org^
+||celeritascdn.com^
+##a[href^="https://landing.brazzersnetwork.com/"]
+daftsex.com##a[href*="theporndude.com"]
+daftsex.com##a[href*="?ats="]
+/^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=1vag.com|4tube.com|adult-channels.com|analdin.com|biguz.net|bogrodius.com|daftsex.com|fantasti.cc|fuqer.com|fux.com|hclips.com|heavy-r.com|incesto69.com|indianbfvideos.com|megapornx.com|milfzr.com|mypornhere.com|niceporn.xxx|porn555.com|pornerbros.com|pornj.com|pornl.com|pornototale.com|porntube.com|sexu.com|sss.xxx|thisav.com|titkino.net|tubepornclassic.com|tuberel.com|tubev.sex|txxx.com|vidmo.org|vpornvideos.com|xozilla.com|youporn.lc|youpornhub.it|yourdailypornstars.com
+youporn.com##.footer-element-container
+youporn.com###pb_template
+www.onlinedoctranslator.com##.ez-video-wrap
+##.adBox
+||3naked.com/nb/
+/exo/exonative
+||filexan.com^$3p
+||chaturbate.com/in/
+##.adsBox
+||popcash.net^
 www.bilibili.com##.clearfix.h5-download-bar.d-f-s
 thumbzilla.com###greeting
 ##[id^="div-gpt-ad"]
