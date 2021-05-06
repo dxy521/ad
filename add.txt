@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 202105052134
+! Version: 20210506
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
@@ -13,6 +13,19 @@
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !--------|http*$subdocument,domain=u17.com|music.baidu.com
 !----------------me start------------------------!
+||edu-tob.bdimg.com/v1/pc/4e48a463c34091a7fa489525833883a6-1618206292859.PNG$image
+wenku.baidu.com##[src="https://edu-tob.bdimg.com/v1/pc/4e48a463c34091a7fa489525833883a6-1618206292859.PNG"]
+wenku.baidu.com##.vip-activity-wrap-new
+wenku.baidu.com##.operate-wrapper > .link-close
+wenku.baidu.com##.no-full-screen.ex-wrapper
+www.jianshu.com###free-reward-panel
+www.jianshu.com###web-nav-app-download-btn
+www.jianshu.com##[href$="utm_source=navbar-apps"]
+y.qq.com##.popup_guide
+y.qq.com##.client_guide
+m.alimanhua.com###down_fixed_link
+m.alimanhua.com###ejsTQcdxwh
+m.alimanhua.com###down_app
 @@||s3.amazonaws.com^$xhr,domain=github.com
 www.baidu.com##.s_side_wrapper-left.guide-info-new
 www.iqiyi.com##.integral-list
@@ -341,6 +354,7 @@ m.bilibili.com##.right > .face
 18comic.art##.billboard-modal.modal-dialog > .text-center.modal-content > .modal-header
 18comic.art##.billboard-modal.modal-dialog > .text-center.modal-content > .modal-footer > .center.m-b-10
 18comic.art###guide-modal > .modal-dialog > .text-center.modal-content > .modal-body
+18comic.art##.footer
 ! 蓝奏云
 lanzoux.com##[style^="color: #8a6d3b;"]
 lanzoux.com##[class="n_foot"]
