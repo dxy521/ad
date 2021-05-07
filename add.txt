@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 20210507
+! Version: 202105072118
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
@@ -13,6 +13,11 @@
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !--------|http*$subdocument,domain=u17.com|music.baidu.com
 !----------------me start------------------------!
+translate.google.cn##[aria-label="Android"]
+translate.google.cn##[aria-label="iOS"]
+translate.google.cn##.zJmlgc.rQKk7
+translate.google.cn##.a88hkc
+app.myzaker.com##[style="display: block;"]
 @@||fonts.gstatic.com^$font,domain=translate.google.cn
 www.360doc.com###artContent > div
 www.360doc.cn##.old.fixedtoolbar
@@ -30,6 +35,7 @@ www.jianshu.com##[href$="utm_source=navbar-apps"]
 y.qq.com##.popup_guide
 y.qq.com##.client_guide
 m.alimanhua.com###down_fixed_link
+porndoe.com##[class="item video-item-banner"]
 m.alimanhua.com###ejsTQcdxwh
 m.alimanhua.com###down_app
 @@||s3.amazonaws.com^$xhr,domain=github.com
