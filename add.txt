@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 20210506
+! Version: 20210507
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
@@ -13,6 +13,12 @@
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !--------|http*$subdocument,domain=u17.com|music.baidu.com
 !----------------me start------------------------!
+@@||fonts.gstatic.com^$font,domain=translate.google.cn
+www.360doc.com###artContent > div
+www.360doc.cn##.old.fixedtoolbar
+www.360doc.cn##[onclick="imgLogArt(1,'w20-26-2');"]
+www.360doc.cn###copyall > div
+||edu-ad-test-cdn.cdn.bcebos.com/cbe426bb832a7677b7acb72aabf13b62/2f610b983f98b5e0767471abe92ba1de.jpg$image
 ||edu-tob.bdimg.com/v1/pc/4e48a463c34091a7fa489525833883a6-1618206292859.PNG$image
 wenku.baidu.com##[src="https://edu-tob.bdimg.com/v1/pc/4e48a463c34091a7fa489525833883a6-1618206292859.PNG"]
 wenku.baidu.com##.vip-activity-wrap-new
@@ -415,8 +421,6 @@ bz.zzzmh.cn##[class="img-box adsense"]
 ||mat1.gtimg.com/rain/apub*/*.png$image
 tophub.today##.m-b-md
 tophub.today###search-in-node
-www.myzaker.com##div.btn:nth-of-type(1)
-www.myzaker.com##.qrcode-block
 www.52pojie.cn##[src="source/plugin/csu_wechat_scan/image/scan.gif"]
 m.baidu.com##.se-ft-promlink
 !----------------me stop------------------------!
