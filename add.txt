@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 202105072118
+! Version: 202105072135
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
@@ -13,6 +13,10 @@
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !--------|http*$subdocument,domain=u17.com|music.baidu.com
 !----------------me start------------------------!
+blog.csdn.net##.tool-mover-ad-mask
+blog.csdn.net##.leftPop
+blog.csdn.net##.csdn-shop-window-common
+search.bilibili.com###van-popover-614
 translate.google.cn##[aria-label="Android"]
 translate.google.cn##[aria-label="iOS"]
 translate.google.cn##.zJmlgc.rQKk7
