@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 202105072135
+! Version: 20210509
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
@@ -13,6 +13,11 @@
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !--------|http*$subdocument,domain=u17.com|music.baidu.com
 !----------------me start------------------------!
+bk.liuwenyan.xyz
+xueshu.soogle.top##[data-cid=""]
+myzaker.com##[data-height="179"]
+www.jianshu.com##[role="main"] > div  > section > div > span
+www.jianshu.com##[role="main"] > div  > section > div + div
 blog.csdn.net##.tool-mover-ad-mask
 blog.csdn.net##.leftPop
 blog.csdn.net##.csdn-shop-window-common
@@ -413,7 +418,6 @@ m.qq717.com##.zw1ljPz
 huanyue123.com/js/xiyuan
 899zw.com/js/common
 byokpg.smartapps.cn##.tb-ad
-app.myzaker.com##[src="https://zkres1.myzaker.com/202104/6082d7176227685b3b00057c_1024.jpg"]
 m.weibo.cn##.card22.m-panel.card
 m.weibo.cn##.card-list > div > .weibo-member.card9.m-panel.card > .card-wrap > .card-main > .card-title
 m.weibo.cn##.slide-wrap.card-main
