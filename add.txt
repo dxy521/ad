@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 20210509
+! Version: 202105092236
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
@@ -13,9 +13,10 @@
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !--------|http*$subdocument,domain=u17.com|music.baidu.com
 !----------------me start------------------------!
+www.baidu.com##.s_side_wrapper-left.guide-info-new
+jingyan.baidu.com##.wgt-ad-bmc
 bk.liuwenyan.xyz
 xueshu.soogle.top##[data-cid=""]
-myzaker.com##[data-height="179"]
 www.jianshu.com##[role="main"] > div  > section > div > span
 www.jianshu.com##[role="main"] > div  > section > div + div
 blog.csdn.net##.tool-mover-ad-mask
@@ -49,13 +50,8 @@ m.alimanhua.com###ejsTQcdxwh
 m.alimanhua.com###down_app
 @@||s3.amazonaws.com^$xhr,domain=github.com
 www.baidu.com##.s_side_wrapper-left.guide-info-new
-www.iqiyi.com##.integral-list
 m.iqiyi.com##.m-iqylink-guide
 m.iqiyi.com##.iqiyi-h5-empty.header-app
-www.youku.com##.text-content_3W7SR
-www.youku.com##.content_25Psf
-www.youku.com##.u-vip_3-BwE
-www.youku.com##.ad-banner-wrapper
 m.youku.com##.Corner
 m.youku.com##.close
 m.youku.com##.h5-detail-vip-guide.clipboard
@@ -72,16 +68,7 @@ m.v.qq.com##.mod_promotion
 m.v.qq.com##.mod_multi_figures_h.mod_sideslip_h.mod_box
 m.v.qq.com##.mod_source
 m.v.qq.com##.js_open_app.btn_user_hd
-v.youku.com##.qr-wrap
-v.youku.com##.information-tips
-v.youku.com##.content_25Psf
 www.dy10000.com##.padding-0.col-xs-1.col-lg-wide-75 > [href]
-www.iqiyi.com##.detail-sd
-www.iqiyi.com##.iqp-integral-inner
-www.iqiyi.com##.J-download-title.header-sideItemCon > div
-www.iqiyi.com##.T-icon-game
-www.iqiyi.com##.J-vip-pay.header-vip-login.header-sideItemCon > div
-www.iqiyi.com##.op-txt
 ||static-s.iqiyi.com/common/20200707/qiyue2.0/d3/28/ca02fe9895ac47af853a9aa813445d641262761083981543552.png$image
 ||commercialvalue.org^
 ||celeritascdn.com^
@@ -155,11 +142,6 @@ www.4tube.com##.jessy-grid
 ||4tube.com/assets/adn-
 ||4tube.com/assets/adf-
 ||exosrv.com^
-movie.youku.com##.show_C8p0e.info-bottom_3C0mQ
-www.iqiyi.com###nav_userBox > div > .qy-popup-box
-www.iqiyi.com##[data-pingback-name$="_vip"]
-www.iqiyi.com##.floaterPannel.top.qy-popup-box > .signin-btn
-v.qq.com##.main_feature
 ||cdn.jsdelivr.net/gh/xmzt/static/mzitu$script,domain=m.mzitu.com
 h5.xinpianchang.com##.download
 h5.xinpianchang.com##.sixin-btn
