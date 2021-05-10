@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 202105092236
+! Version: 202105100849
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
@@ -13,6 +13,9 @@
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !--------|http*$subdocument,domain=u17.com|music.baidu.com
 !----------------me start------------------------!
+segmentfault.com###first-ad
+sorryfearknockout.com
+@@||mbdp02.bdstatic.com/static/1anding-pc/css$stylesheet,domain=baijiahao.baidu.com
 www.baidu.com##.s_side_wrapper-left.guide-info-new
 jingyan.baidu.com##.wgt-ad-bmc
 bk.liuwenyan.xyz
