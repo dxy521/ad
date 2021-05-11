@@ -16,8 +16,10 @@ www.iqiyi.com##.iqp-logo-box
 v.qq.com##.txp-watermark
 v.qq.com##.txp-watermark-action
 v.youku.com##.youku-layer-logo
-m.bilibili.com##.player-mobile-widescreen-callapp
-m.bilibili.com##.player-mobile-control-bar-right > div
+m.bilibili.com##[class="player-mobile-widescreen-callapp"]
+m.bilibili.com##[class$="player-mobile-control-btn-quality"]
+m.bilibili.com##[class$="player-mobile-control-btn-speed"]
+m.bilibili.com##[class$="player-mobile-comment-text"]
 segmentfault.com###first-ad
 pan.naifei.cc##.layui-footer > a
 sorryfearknockout.com
