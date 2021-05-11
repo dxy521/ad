@@ -1,19 +1,25 @@
 ! Title: 自用
-! Version: 202105100849
+! Version: 20210511
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
 ! -------------屏蔽所有script
 !--------$script,domain=m.xiaoshuo588.com
 ! -------------屏蔽第三方资源
-!--------|http*$third-party,~image,domain=snwx8.com|m.xinguli.com|520xsla.com
+!--------|http*$third-party,~image,subdocument,domain=snwx8.com|m.xinguli.com|520xsla.com
 !--------|http*$third-party,domain=hjwzw.com|xbiquge6.com|share.dmhy.org
-!--------|http*$third-party,subdocument,domain=tieba.baidu.com
 ! -------------NoScript，可加上自己要过滤的域名
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !--------|http*$subdocument,domain=u17.com|music.baidu.com
 !----------------me start------------------------!
+www.iqiyi.com##.iqp-logo-box
+v.qq.com##.txp-watermark
+v.qq.com##.txp-watermark-action
+v.youku.com##.youku-layer-logo
+m.bilibili.com##.player-mobile-widescreen-callapp
+m.bilibili.com##.player-mobile-control-bar-right > div
 segmentfault.com###first-ad
+pan.naifei.cc##.layui-footer > a
 sorryfearknockout.com
 @@||mbdp02.bdstatic.com/static/1anding-pc/css$stylesheet,domain=baijiahao.baidu.com
 www.baidu.com##.s_side_wrapper-left.guide-info-new
