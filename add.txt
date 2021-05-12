@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 20210511
+! Version: 20210512
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
@@ -7,11 +7,28 @@
 !--------$script,domain=m.xiaoshuo588.com
 ! -------------屏蔽第三方资源
 !--------|http*$third-party,~image,subdocument,domain=snwx8.com|m.xinguli.com|520xsla.com
-!--------|http*$third-party,domain=hjwzw.com|xbiquge6.com|share.dmhy.org
 ! -------------NoScript，可加上自己要过滤的域名
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
-!--------|http*$subdocument,domain=u17.com|music.baidu.com
 !----------------me start------------------------!
+@@||mbdp02.bdstatic.com/static/1anding-pc/css$stylesheet,domain=baijiahao.baidu.com
+@@||mbdp02.bdstatic.com/static/landing-pc/css$stylesheet,domain=baijiahao.baidu.com
+m.baidu.com##.ec_ad_results
+m.baidu.com##[class^="ec_wise_ad"]
+m.baidu.com##.na-ec-item.c-container
+m.baidu.com###page-copyright
+m.baidu.com##[class*="c-container ec-container"]
+max.book118.com##.wechat
+max.book118.com##.client
+max.book118.com##[class="sidebar-item sidebar-prize"]
+max.book118.com##[class="sidebar-item sidebar-qq"]
+max.book118.com##[class="sidebar-item sidebar-wechat"]
+max.book118.com##[class="sidebar-item sidebar-demandcollect"]
+www.baidu.com##.s-top-loginbtn-bottom.new-pmd.guide-info-new
+max.book118.com##.service-shop
+max.book118.com##[class="webpreview-recommend re"]
+m.baidu.com##.icon-logo.c-gap-right.c-icon
+m.baidu.com##.se-head-tablink
+www.zhihu.com##.AppBanner.Card
 www.iqiyi.com##.iqp-logo-box
 v.qq.com##.txp-watermark
 v.qq.com##.txp-watermark-action
@@ -23,7 +40,6 @@ m.bilibili.com##[class$="player-mobile-comment-text"]
 segmentfault.com###first-ad
 pan.naifei.cc##.layui-footer > a
 sorryfearknockout.com
-@@||mbdp02.bdstatic.com/static/1anding-pc/css$stylesheet,domain=baijiahao.baidu.com
 www.baidu.com##.s_side_wrapper-left.guide-info-new
 jingyan.baidu.com##.wgt-ad-bmc
 bk.liuwenyan.xyz
@@ -153,6 +169,11 @@ www.4tube.com##.jessy-grid
 ||4tube.com/assets/adn-
 ||4tube.com/assets/adf-
 ||exosrv.com^
+porndoe.com##.fly-in-content
+porndoe.com##.videos-tsq
+www.tube8.com###adBlockAlert
+www.tube8.com##.js-remove-ads-premium-link
+www.tube8.com##[href$="#advertising"]
 ||cdn.jsdelivr.net/gh/xmzt/static/mzitu$script,domain=m.mzitu.com
 h5.xinpianchang.com##.download
 h5.xinpianchang.com##.sixin-btn
@@ -178,7 +199,6 @@ www.94069.net##.visible-xs.click
 dianshiju.tv##video
 dianshiju.tv##[href="/c-20-34.html"]
 m.baidu.com##[style="display: block;"]
-m.baidu.com##[class^="c-line-clamp1"]
 www.zhenbuka2.com###yb112
 www.zhenbuka2.com###md112
 www.zhenbuka2.com##.marquee_outer
@@ -369,6 +389,7 @@ m.bilibili.com##.right > .face
 18comic.art##.billboard-modal.modal-dialog > .text-center.modal-content > .modal-footer > .center.m-b-10
 18comic.art###guide-modal > .modal-dialog > .text-center.modal-content > .modal-body
 18comic.art##.footer
+18comic.art##.partialViewSlider-outerwrapper
 ! 蓝奏云
 lanzoux.com##[style^="color: #8a6d3b;"]
 lanzoux.com##[class="n_foot"]
@@ -386,7 +407,6 @@ cocomanhua.com##[style="clear: both;"]
 ||kukudm.com/mg/show
 app.mi.com##.slide-float
 jingyan.baidu.com##.ad-card
-baike.baidu.com##[target="_blank"]
 baike.baidu.com###J-super-layer-promote
 baike.baidu.com##[style*="height: 74.6625px"]
 baike.baidu.com##.quickNav
@@ -1128,7 +1148,6 @@ _click*(com?
 /source/plugin/drk_ledadv/*
 edh.tw###caas-vm-container
 edh.tw##.popin_ad
-||codenong.com/c1.js
 codenong.com###sidebar aside[id^="text-"]
 hktvyb.com##div[style="text-align:center;"] > a[target="_blank"] > img[alt="APP"]
 hktvyb.com##.myui-content__operate > a.btn-warm
