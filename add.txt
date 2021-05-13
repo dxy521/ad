@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 20210512
+! Version: 20210513
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
@@ -10,7 +10,14 @@
 ! -------------NoScript，可加上自己要过滤的域名
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !----------------me start------------------------!
-@@||mbdp02.bdstatic.com/static/1anding-pc/css$stylesheet,domain=baijiahao.baidu.com
+m.baidu.com##[class^="banner-wrap"]
+new.qq.com##[data-ua-trace*="irs:video"]
+wenku.baidu.com##.no-full-screen.qr-wrapper
+wenku.baidu.com##.no-full-screen.side-doc-tool-wrapper
+wenku.baidu.com##.no-full-screen.feedback-wrapper
+wenku.baidu.com##.no-full-screen.helpcenter-wrapper
+@@||mbdp02.bdstatic.com/static/landing-pc/js$script,domain=baijiahao.baidu.com
+@@||f11.baidu.com/it$image,domain=baijiahao.baidu.com
 @@||mbdp02.bdstatic.com/static/landing-pc/css$stylesheet,domain=baijiahao.baidu.com
 m.baidu.com##.ec_ad_results
 m.baidu.com##[class^="ec_wise_ad"]
@@ -27,7 +34,6 @@ www.baidu.com##.s-top-loginbtn-bottom.new-pmd.guide-info-new
 max.book118.com##.service-shop
 max.book118.com##[class="webpreview-recommend re"]
 m.baidu.com##.icon-logo.c-gap-right.c-icon
-m.baidu.com##.se-head-tablink
 www.zhihu.com##.AppBanner.Card
 www.iqiyi.com##.iqp-logo-box
 v.qq.com##.txp-watermark
