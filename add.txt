@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 20210514
+! Version: 202105142330
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
@@ -10,6 +10,14 @@
 ! -------------NoScript，可加上自己要过滤的域名
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !----------------me start------------------------!
+m.alimanhua.com##.btn-chapter
+pic.xx.hcomic.cc
+www.5858dm.xyz
+www.xxmh497.com
+m.alimanhua.com##[src^="data:image/png;base64,"]
+l.zhiboiot.cn
+m.alimanhua.com##[style$="display:block;"]
+m.baidu.com##.c-span.banner__2E7bA
 www.acfun.cn###pagelet_banner
 www.acfun.cn##.monkey-recommend-activity
 www.acfun.cn##.live-module-activity > .activity-box
