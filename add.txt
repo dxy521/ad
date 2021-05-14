@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 20210513
+! Version: 20210514
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
@@ -10,6 +10,34 @@
 ! -------------NoScript，可加上自己要过滤的域名
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !----------------me start------------------------!
+www.acfun.cn###pagelet_banner
+www.acfun.cn##.monkey-recommend-activity
+www.acfun.cn##.live-module-activity > .activity-box
+www.acfun.cn##.banana-ad
+www.acfun.cn###pagelet_dance > .normal-module > .normal-ad
+||cdn.imgcn.top/tgimg/4hw/sst.jpg$image
+wangmeng.baidu.com
+cdn.bolopp.com
+boxnovel.baidu.com##.afd-detail
+boxnovel.baidu.com##.icon-listen
+boxnovel.baidu.com##.listen-bar
+boxnovel.baidu.com##.wechat-banner
+boxnovel.baidu.com##.wechat-wrapper
+mmzztt.com###m-fixed
+mmzztt.com##[href="https://mmzztt.com/app/"]
+m.acfun.cn##.header-ico
+m.acfun.cn##.swiper-container-android.swiper-container-horizontal.swiper-container
+m.acfun.cn###js-profit-fixed
+m.acfun.cn##.anim.shown.open-app-btn
+m.acfun.cn##.flex-center.down-app-button
+m.acfun.cn##.flex-center.more-main-comment
+m.acfun.cn##.shown.open-app-btn
+baike.baidu.com###J-declare-wrap
+baike.baidu.com##.new-side-share.new-bdsharebuttonbox
+baike.baidu.com##.appdownload.item
+tieba.baidu.com##.nav-bar-wrapper.fixed-nav-bar
+tieba.baidu.com##[class="tb-banner-wrapper tb-banner tb-threadlist__item"]
+tieba.baidu.com##[class="tb-threadlist__item tb-hotthread-wrapper"]
 m.baidu.com##[class^="banner-wrap"]
 new.qq.com##[data-ua-trace*="irs:video"]
 wenku.baidu.com##.no-full-screen.qr-wrapper
