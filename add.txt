@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 202105142330
+! Version: 20210515
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
@@ -10,6 +10,16 @@
 ! -------------NoScript，可加上自己要过滤的域名
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !----------------me start------------------------!
+v.qq.com##.__lite_hide__.ft_cell_vcoin.ft_cell
+v.qq.com##.ft_cell_feedback.ft_cell
+v.qq.com##.__lite_hide__._download.ft_cell_download.ft_cell
+youku.com##.show_C8p0e.info-bottom_3C0mQ
+youku.com##[class^="report_"]
+youku.com##[class^="change-skin_"]
+www.iqiyi.com##.anchor-integral.anchor-list
+www.iqiyi.com##[data-item="feedback"]
+www.iqiyi.com##.j_pingback_view.fhy_ydBox.hy_ydBox
+www.iqiyi.com##.detail-sd
 m.alimanhua.com##.btn-chapter
 pic.xx.hcomic.cc
 www.5858dm.xyz
@@ -3620,7 +3630,6 @@ javbus.com##div.container-fluid:nth-child(9) > div.row > div.ad-list:nth-child(3
 cpu.baidu.com##A[href*='cpro.baidu.com']
 baidu.com###page-pre
 baike.baidu.com##[class="qtqy-container"],[class="yitiao-content J-yitiao-content"],[class="yitiao-title"]
-www.baidu.com,m.baidu.com##DIV[class='qrcode call']
 www.onemanhua.com##IMG[src*='pic66557.oss-cn-beijing.aliyuncs.com']
 onemanhua.com###rn_ad_native_2u1bh > div.mn-related-container
 52movieba.com,bimibimi.me,acglala.net,ainuody.com,awaker.cn,cangku.in,ccav1.com,cdsoso.me,cgown.com,cn163.net,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hcomic.in,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmog.me,htcui.com,huan.moe,idanmu.at,jiecao123.com,jitapu.com,jiyingw.net,jobbole.com,kisssub.org,languang.co,liuli.pw,moe-acg.cc,moe-acg.us,mydrivers.com,nxing.cn,oyksoft.com,rijutv.com,souxue8.com,speedtest.cn,toutiao.com,tucao.one,vpansou.com,xxshe.info,xxshe.xyz,youku.com##a[href*=".taobao.com"]
