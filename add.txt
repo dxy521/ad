@@ -10,6 +10,7 @@
 ! -------------NoScript，可加上自己要过滤的域名
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !----------------me start------------------------!
+baike.baidu.com##.BK-after-content-wrapper
 v.qq.com##.__lite_hide__.ft_cell_vcoin.ft_cell
 v.qq.com##.ft_cell_feedback.ft_cell
 v.qq.com##.__lite_hide__._download.ft_cell_download.ft_cell
