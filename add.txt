@@ -1,6 +1,5 @@
 ! Title: 自用
 ! Version: 20210516
-! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
 ! -------------屏蔽所有script
@@ -10,6 +9,10 @@
 ! -------------NoScript，可加上自己要过滤的域名
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !----------------me start------------------------!
+haokan.baidu.com##.like-0.videoinfo-zan
+haokan.baidu.com##.like-0.videoinfo-collect
+haokan.baidu.com##.videoinfo-share
+haokan.baidu.com##.videoinfo-phone
 m.alimanhua.com##[id^="xy"]
 m.alimanhua.com/skin/t6.js
 tieba.baidu.com##.tbui_fbar_down.tbui_aside_fbar_button
