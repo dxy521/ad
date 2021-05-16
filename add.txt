@@ -10,6 +10,8 @@
 ! -------------NoScript，可加上自己要过滤的域名
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !----------------me start------------------------!
+m.alimanhua.com##[id^="xy"]
+m.alimanhua.com/skin/t6.js
 tieba.baidu.com##.tbui_fbar_down.tbui_aside_fbar_button
 tieba.baidu.com##.tbui_fbar_share.tbui_aside_fbar_button
 tieba.baidu.com##.tbui_fbar_feedback.tbui_aside_fbar_button
