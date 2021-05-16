@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 20210515
+! Version: 20210516
 ! -------------屏蔽指定类型
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
@@ -10,6 +10,21 @@
 ! -------------NoScript，可加上自己要过滤的域名
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !----------------me start------------------------!
+tieba.baidu.com##.tbui_fbar_down.tbui_aside_fbar_button
+tieba.baidu.com##.tbui_fbar_share.tbui_aside_fbar_button
+tieba.baidu.com##.tbui_fbar_feedback.tbui_aside_fbar_button
+tieba.baidu.com##.nav-bar.w-row-justify-between.w-row-align-center.w-row
+tieba.baidu.com##.post-cut-guide
+tieba.baidu.com##.fengchao-banner
+tieba.baidu.com##.recommend-list
+tieba.baidu.com##.bottom-guide-box
+m.baidu.com##[srcid="xcx_multi"]
+m.baidu.com##[srcid="app_mobile_simple"]
+m.baidu.com##[srcid="guanfanghao"]
+m.douyu.com##.DownloadBtn
+m.douyu.com##.HomeHeader-openAppB
+m.douyu.com##.btn-open-app
+m.baidu.com##.c-line-clamp1.diversion-waterfall-b
 baike.baidu.com##.BK-after-content-wrapper
 v.qq.com##.__lite_hide__.ft_cell_vcoin.ft_cell
 v.qq.com##.ft_cell_feedback.ft_cell
