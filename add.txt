@@ -247,6 +247,11 @@ porndoe.com##.videos-tsq
 www.tube8.com###adBlockAlert
 www.tube8.com##.js-remove-ads-premium-link
 www.tube8.com##[href$="#advertising"]
+tube8.com###announcement_ticker
+tube8.com##.adsbytrafficjunky
+tube8.com##.gridList > [class]:has(.adsbytrafficjunky)
+tube8.com##[href^="https://ads.trafficjunky.net/ads"]
+tube8.com##input + div:has(.adsbytrafficjunky)
 ||cdn.jsdelivr.net/gh/xmzt/static/mzitu$script,domain=m.mzitu.com
 h5.xinpianchang.com##.download
 h5.xinpianchang.com##.sixin-btn
