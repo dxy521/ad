@@ -1,5 +1,5 @@
 ! Title: 自用
-! Version: 20210516
+! Version: 20210517
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
 ! -------------屏蔽所有script
@@ -1578,7 +1578,8 @@ pcbeta.com###sitefocus
 ||pcgames.com.cn/g/extlin/pcdownpic/$script
 ||pcgames.com.cn/adpuba/show?
 ||pcgames.com.cn/g/*/fz/
-||img0.pcgames.com.cn^$object,object-subrequest
+||img0.pcgames.com.cn^$object
+||img0.pcgames.com.cn^$object-subrequest
 ||wangyou.pcgames.com.cn/jctj/$script
 pconline.com.cn##div.jcztl,div.box.best,div.ivy-330
 ||buy.pconline.com.cn/$script
@@ -1886,13 +1887,15 @@ quandangdang.net
 dieka888.com
 ||mtime.cn/library/*/Goods$script
 trade.mtime.com
-||com/pic/fgr/$script,object-subrequest
+||com/pic/fgr/$script
+||com/pic/fgr/$object-subrequest
 ||log1.17173.com/
 ||luck.v1.cn/$object-subrequest
 @@||union.bokecc.com/player
 ||click.bokecc.com/
 ||imedia.bokecc.com/
-*/7mad.$image,object,object-subrequest
+*/7mad.$image,object
+*/7mad.$object-subrequest
 */9vads
 */acadv
 */adadmin
@@ -1912,7 +1915,8 @@ trade.mtime.com
 */cc222ads
 */cpv123
 */cwjad
-*/ejia360$image,object,object-subrequest
+*/ejia360$image,object
+*/ejia360$object-subrequest
 */fhHYTagNew
 */fkunion
 */gao.
@@ -1920,7 +1924,8 @@ trade.mtime.com
 */ggad
 */ggao.
 */gghead
-*/gguangg$image,object,object-subrequest
+*/gguangg$image,object
+*/gguangg$object-subrequest
 */googlevideoads
 */gvodad
 */headbiggg_hq
@@ -1930,7 +1935,8 @@ trade.mtime.com
 */messagetip.
 */mier168
 */mopgg
-*/mygg$image,object,object-subrequest
+*/mygg$image,object
+*/mygg$object-subrequest
 */nadScreenFloat
 */nadTimeFlashLayer
 */newSNDAPop
@@ -1948,7 +1954,8 @@ trade.mtime.com
 */tcgg
 */tomFlashAdChanel
 */tttccc.
-*/tyad_$image,object,object-subrequest
+*/tyad_$image,object
+*/tyad_$object-subrequest
 */ugcad
 */ulinkdir
 */ulinkjs
@@ -1956,7 +1963,8 @@ trade.mtime.com
 */w-z1.
 */wafp.
 */wcast
-*/weige.$image,object,object-subrequest
+*/weige.$image,object
+*/weige.$object-subrequest
 */wFloat.
 */wwwcpm
 */xiazaiyoudao
@@ -1968,7 +1976,8 @@ trade.mtime.com
 */zhifubao
 *&adsc_typpe=
 *-160-600.jpg|$image
-*-300X250.$image,object,object-subrequest
+*-300X250.$image,object
+*-300X250.$object-subrequest
 *-980x60.gif$image
 *.91ivr.
 *.91wan.
@@ -2192,7 +2201,8 @@ trade.mtime.com
 */178acg/
 */198game_
 */2345float
-*/300250.swf$object,object-subrequest
+*/300250.swf$object
+*/300250.swf$object-subrequest
 */300X250.gif$image
 */300x250.swf
 */300x250_
@@ -2210,7 +2220,8 @@ trade.mtime.com
 */740_60.jpg
 */760.js|$script
 */760_*.js|$script
-*/778_110.$image,object,object-subrequest
+*/778_110.$image,object
+*/778_110.$object-subrequest
 */789uc/sb.
 */8976_360100$subdocument
 */900x250.$subdocument
@@ -2230,8 +2241,10 @@ trade.mtime.com
 */a_d_c
 */a_d_s
 */aaadddd/2.js$script
-*/aadd/$image,object,object-subrequest
-*/acho/280x$image,object,object-subrequest
+*/aadd/$image,object
+*/aadd/$object-subrequest
+*/acho/280x$object-subrequest
+*/acho/280x$image,object
 */acmsd/thea15
 */acmsd/thea17
 */acmsd/thea5
@@ -2242,7 +2255,8 @@ trade.mtime.com
 */adfshow?user=
 */adgg/
 */adiframe/
-*/adimages/$image,object,object-subrequest
+*/adimages/$image,object
+*/adimages/$object-subrequest
 */adjs.
 */adjs/
 */adplayer/*.swf?v=
@@ -2294,7 +2308,8 @@ trade.mtime.com
 */code/popjs.asp?
 */code_img/
 */codepic/
-*/common/cf/$image,object,object-subrequest,domain=~wifi.liebao.cn|~96fei.com
+*/common/cf/$image,object,domain=~wifi.liebao.cn|~96fei.com
+*/common/cf/$object-subrequest,domain=~wifi.liebao.cn|~96fei.com
 */cont_adL
 */cont_adr
 */cont_bottom.js|
@@ -2313,14 +2328,16 @@ trade.mtime.com
 */displayAd.js?
 */doublePop.js
 */duilian_
-*/dzx/forum$image,object,object-subrequest
+*/dzx/forum$image,object
+*/dzx/forum$object-subrequest
 */ead/union/
 */ejia/$domain=~189.cn
 */enkj.gif$image
 */eptgoal/
 */external/public126
 */fbookad/
-*/fdad/$image,object,object-subrequest
+*/fdad/$image,object
+*/fdad/$object-subrequest
 */files/adv/
 */floatad.js|$script,domain=~fwxgx.com
 */floatadv.js|$script
@@ -2345,7 +2362,8 @@ trade.mtime.com
 */gg_search_
 */ggao/
 */ggaotp/
-*/ggg/$image,object,object-subrequest
+*/ggg/$image,object
+*/ggg/$object-subrequest
 */gggg
 */ggimages/
 */ggjs/
@@ -2367,14 +2385,16 @@ trade.mtime.com
 */html/cbjs.html?id=$subdocument
 */html/hot_s
 */html/yuedu$subdocument
-*/hxli/$image,object,object-subrequest
+*/hxli/$image,object
+*/hxli/$object-subrequest
 */i.js^$script,third-party
 */icast/
 */idcgg/
 */if/07top-new
 */ikb/js/t.js|
 */image/banner/$image
-*/images/169$object,object-subrequest
+*/images/169$object
+*/images/169$object-subrequest
 */images/ad960.
 */images/bbsad/
 */images/ping.js|
@@ -2385,8 +2405,10 @@ trade.mtime.com
 */indexAD.js
 */inner_center1
 */intf/bbs_expert
-*/ja486$image,object,object-subrequest
-*/jbk.gif^$image,object,object-subrequest
+*/ja486$image,object
+*/ja486$object-subrequest
+*/jbk.gif^$image,object
+*/jbk.gif^$object-subrequest
 */js/1.htm$subdocument
 @@||wago.io/js/118.$script
 */js/118.
@@ -2436,7 +2458,8 @@ trade.mtime.com
 */jsgg/
 */jump.js|
 */kdjl_306x200
-*/kwgg/$image,object,object-subrequest
+*/kwgg/$image,object
+*/kwgg/$object-subrequest
 */lm/iframe/js/blognew2011
 */lmt_v
 */lsgg/
@@ -2446,7 +2469,8 @@ trade.mtime.com
 */mini/01.$subdocument
 */mlfoot.js|
 */mynicedd/
-*/nc.jpg$image,object,object-subrequest
+*/nc.jpg$object-subrequest
+*/nc.jpg$image,object
 */nettv/adp/
 */newhuagg/
 */news_ad$subdocument
@@ -2465,10 +2489,12 @@ trade.mtime.com
 */pu_nocap_cn
 */push_n.php
 */pushcar.php
-*/rdidc.gif$image,object,object-subrequest
+*/rdidc.gif$image,object
+*/rdidc.gif$object-subrequest
 */RichMedia.js|
 */rightCornerPop/
-*/rnad/$image,object,object-subrequest
+*/rnad/$image,object
+*/rnad/$object-subrequest
 */rsdowngood_
 */scad.h$subdocument
 */scad1.h$subdocument
@@ -2482,7 +2508,8 @@ trade.mtime.com
 */sluke/ml
 */soft_mid_
 */soqidian/
-*/svnad/$subdocument,image,object,object-subrequest
+*/svnad/$subdocument,image,object
+*/svnad/$object-subrequest
 */sygg/$subdocument
 */tan/
 */tan1/
@@ -2507,7 +2534,8 @@ trade.mtime.com
 */union/link_
 */union/union_
 */upcontent.js|
-*/upfile/myshow$image,object,object-subrequest
+*/upfile/myshow$image,object
+*/upfile/myshow$object-subrequest
 */uuzu_
 */verycms/
 */view-960x90
@@ -2519,8 +2547,10 @@ trade.mtime.com
 */wizard.js^
 */www/deliver/
 */www/delivery/
-*/wzduilian/$image,object,object-subrequest
-*/wzygg/$image,object,object-subrequest
+*/wzduilian/$image,object
+*/wzduilian/$object-subrequest
+*/wzygg/$image,object
+*/wzygg/$object-subrequest
 */xy/js/
 */yingsu*.gif$image
 */yinsu$image
@@ -2557,11 +2587,12 @@ trade.mtime.com
 admin5.com##.float_both,div.sherry_ad1,div.specialBox,.content_right_ad
 ||168.it168.com$script
 ||17173.com/if/$subdocument
-||17173.com/x/$script,subdocument,object,object-subrequest
-||17173.itc.cn/2013/www/if/$image,object,object-subrequest
+||17173.com/x/$script,subdocument,object
+||17173.com/x/$object-subrequest
+||17173.itc.cn/2013/www/if/$object-subrequest
+||17173.itc.cn/2013/www/if/$image,object
 !----------------乘风 stop------------------------!
 !----------------jiekouAD start------------------------!
-@@$app=com.x.addon.cast
 bi.ui.doulaihai.top
 ppl.xunzhuo123.com
 puqer.cn
@@ -3703,7 +3734,6 @@ ciymao.com,zhaishuyuan.com##+js(aopr,alert)
 youku.com##+js(nano-stb, , ,0)
 @@||valipl.cp31.ott.cibntv.net^$xhr,domain=youku.com
 *$image,redirect-rule=1x1.gif,domain=youku.com
-iqiyi.com##+js(set, Object.prototype.parseXML, noopFunc)
 iqiyi.com#@#+js(aopr, DOMParser)
 iqiyi.com##+js(nano-sib)
 ||data.video.iqiyi.com/videos/other/*$xhr,1p
