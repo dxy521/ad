@@ -11,6 +11,10 @@
 ! -------------NoScript，可加上自己要过滤的域名
 !--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
 !----------------me start------------------------!
+www.siguyy.com/static/js/yxj.js
+www.siguyy.com##div.clearfix.myui-panel-bg.myui-panel > .clearfix.myui-panel-box > .myui-panel_bd > .col-xs-1
+jmjt.org
+translate.google.cn##c-wiz > div > div > div:contains(点击图标下载 App)
 haokan.baidu.com##.like-0.videoinfo-zan
 haokan.baidu.com##.like-0.videoinfo-collect
 haokan.baidu.com##.videoinfo-share
