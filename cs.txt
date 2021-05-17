@@ -1,9 +1,6 @@
 [Adblock Plus 3.1]
-! Checksum: 85FinlKfp6pzo/QmYDaATQ
 ! Version: 20210517
 ! Title: 自用
-! Last modified: 17 May 2021 07:00 UTC
-! Expires: 1 hours (update frequency)
 ! Homepage: https://github.com/dxy521/ad
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
