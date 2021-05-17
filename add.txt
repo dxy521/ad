@@ -1,5 +1,7 @@
-! Title: 自用
+[Adblock Plus 3.1]
 ! Version: 20210517
+! Title: 自用
+! Homepage: https://raw.githubusercontent.com/dxy521/ad/master/add.txt
 ! -------------屏蔽所有inline-script
 !--------$inline-script,domain=m.xiaoshuo588.com
 ! -------------屏蔽所有script
