@@ -2,15 +2,16 @@
 ! Version: 20210517
 ! Title: 自用
 ! Homepage: https://raw.githubusercontent.com/dxy521/ad/master/add.txt
-! -------------屏蔽所有inline-script
-!--------$inline-script,domain=m.xiaoshuo588.com
-! -------------屏蔽所有script
-!--------$script,domain=m.xiaoshuo588.com
-! -------------屏蔽第三方资源
-!--------|http*$third-party,~image,subdocument,domain=snwx8.com|m.xinguli.com|520xsla.com
-! -------------NoScript，可加上自己要过滤的域名
-!--------|http*$script,domain=eywedu.org|365essay.com|baishuku.la
+!-------------屏蔽所有script
+!--------$script,third-party,~image,subdocument,domain=m.xiaoshuo588.com|eywedu.org|365essay.com
 !----------------me start------------------------!
+@@||mbdp02.bdstatic.com/static/landing-pc/img$image,domain=baijiahao.baidu.com
+www.doc88.com##.page_ad
+www.doc88.com##.dk-side
+www.doc88.com###app_read
+www.doc88.com###wx_read
+www.doc88.com##[onclick*="rtools_daoke_read"]
+mao2.azsjhf.com
 www.siguyy.com/static/js/yxj.js
 www.siguyy.com##div.clearfix.myui-panel-bg.myui-panel > .clearfix.myui-panel-box > .myui-panel_bd > .col-xs-1
 jmjt.org
