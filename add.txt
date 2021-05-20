@@ -5,11 +5,6 @@
 !-------------屏蔽所有script
 !--------$script,third-party,~image,subdocument,domain=m.xiaoshuo588.com|eywedu.org|365essay.com
 !----------------me start------------------------!
-@@||github.githubassets.com$script,domain=github.com
-@@||github.com/upload$xhr,1p
-@@||github.com/dxy521/ad$xhr,1p
-@@||gitee.com/YanFung/Ads$xhr,1p
-@@||github.com/YanFung/Ads/$xhr,1p
 advertising_ads*
 cloud.tencent.com##.has-sign.special-article
 cloud.tencent.com##.com-event-panel-inner
@@ -4937,7 +4932,6 @@ douban.com#@#.download-app
 motrix.app#@#.download-btn
 !----------------YanFung stop------------------------!
 !----------------Xbroeser start------------------------!
-/ad/
 /adimages/
 /ads/
 /ads/media/images/
