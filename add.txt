@@ -5,6 +5,9 @@
 !-------------屏蔽所有script
 !--------$script,third-party,~image,subdocument,domain=m.xiaoshuo588.com|eywedu.org|365essay.com
 !----------------me start------------------------!
+@@||github.githubassets.com$script,domain=github.com
+@@||github.com/upload$xhr,1p
+@@||github.com/dxy521/ad$xhr,1p
 @@||gitee.com/YanFung/Ads$xhr,1p
 @@||github.com/YanFung/Ads/$xhr,1p
 advertising_ads*
@@ -5210,8 +5213,6 @@ gsycdb.com
 --psCreat.js@f2dkc1.com
 http://f2dkc1.com/templates/frontend/frontend-jiucao/ps/psCreat.js?t=1
 js/psData.js@99djbxx2.com
-##div.listok@48dydy.com
-##div.container@sifangpian.rocks
 93vitui.com
 yootui19999.com
 # end of official 
@@ -8417,11 +8418,6 @@ xn--cjr60y21klpd.com
 mytianqi.vip
 h2tywo.cn
 sysjhy.cn
-##a[target='_blank']>img!10
-##a[target='_blank']>img->20
-##a[target='_blank']>img[src$='.gif']->5
-##a[target='_blank']>img[src*='ad']->5
-##a[target='_blank'][href*='ad']>img->5
 /geminivideoads/
 www.abie13.top
 cdsptd.cn
