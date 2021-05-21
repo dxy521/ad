@@ -59,3 +59,32 @@ YanFung个人轻量级Adblock广告规则
   https://raw.githubusercontent.com/YanFung/Ads/master/Mobile
 jiekouAD，针对手机端盗版网站广告的拦截规则
   https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
+
+
+ yhosts,国内维护者屏蔽国内网站广告
+https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt
+https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
+ 大圣净化,主要针对国内视频网站
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+ 1024_hosts，1024网站和澳门皇家赌场
+https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
+ StevenBlack,国外维护者屏蔽国外网站广告
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+ iOS AD blockers（主要针对海外手机网站）
+https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
+https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Regular%20Hosts.txt
+ Mvps（屏蔽美欧地区英文网站相关的广告）
+https://winhelp2002.mvps.org/hosts.txt
+ 屏蔽抖音
+https://raw.githubusercontent.com/Discover999/Host-Ban-Tik-Tok/master/TikTokHost.txt
+ pornhosts-整合的反porn主机文件
+https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/0.0.0.0/hosts
+https://raw.githubusercontent.com/Clefspeare13/pornhosts/master/127.0.0.1/hosts
+ Sinfonietta的porn内容阻止了主机文件
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/pornography-hosts
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/snuff-hosts
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
+https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/social-hosts
+ Tiuxo主机列表-porn
+https://raw.githubusercontent.com/tiuxo/hosts/master/porn
+https://raw.githubusercontent.com/tiuxo/hosts/master/ads
