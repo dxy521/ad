@@ -1,10 +1,13 @@
 [Adblock Plus 3.1]
-! Version: 20210526
+! Version: 202105261315
 ! Title: 自用
 ! Homepage: https://raw.githubusercontent.com/dxy521/ad/master/add.txt
 !-------------屏蔽所有script
 !--------$script,third-party,~image,subdocument,domain=m.xiaoshuo588.com|eywedu.org|365essay.com
 !----------------me start------------------------!
+a.exdynsrv.com
+freegames3d.xyz
+syndication.exdynsrv.com
 haokan.baidu.com##.open-app-button
 haokan.baidu.com##.open-app-top
 haokan.baidu.com##.navigation-download
@@ -503,10 +506,20 @@ lanzous.com##.foot_info
 lanzoui.com##[style^="color: #8a6d3b;"]
 lanzoui.com##[class="n_foot"]
 lanzoui.com##.foot_info
+! cocomanhua
+!@@||cdndx.clouddata8g.xyz^$script,domain=www.cocomanhua.com
+!@@||cocomanhua.com/js/ad*/*.js
+!cocomanhua.com,ohmanhua.com,onemanhua.com#@#.adBanner
+cocomanhua.com,ohmanhua.com,onemanhua.com##+js(set-constant, NativeAd, noopFunc)
+cocomanhua.com,ohmanhua.com,onemanhua.com##+js(set-constant, __jsadsuccess, true)
+cocomanhua.com,ohmanhua.com,onemanhua.com##+js(no-setTimeout-if, checkSiteNormalLoad)
+||cocomanhua.com/sw.js
+cocomanhua.com##+js(aopr,jQuery.fn.html)
+cocomanhua.com##+js(aopr,__cad.cpm_popunder)
+cocomanhua.com##+js(aopr,__ad)
 ! -------------结束
 mp.weixin.qq.com##[data-mpa-powered-by="yiban.io"]
 haokan.baidu.com##[class="adv skeletonbg ec_result"]
-cocomanhua.com##[style="clear: both;"]
 ||kukudm.com/mg/show
 app.mi.com##.slide-float
 jingyan.baidu.com##.ad-card
@@ -523,7 +536,6 @@ xw.qq.com##.shareA.jsx-3819145385
 xw.qq.com##.channel-entry.jsx-2375966888
 xw.qq.com##.fixed.footer.jsx-2005580460
 baike.baidu.com##[style="height: 146.025px"]
-www.cocomanhua.com##.exo-native-widget-outer-container
 ddbiquge.cc/ddbd/new
 xyqxs.cc/js/book
 miaoshuzhai.com/js/lazyload
@@ -708,7 +720,6 @@ m.baidu.com##.se-ft-promlink
 */web/js/th/$domain=cam4.com
 ||chaturbate.com/affiliates/
 ||nsimg.net^
-@@||cdndx.clouddata8g.xyz^$script,domain=www.cocomanhua.com
 ||ddrk.me/vjs-plugins/videojs.das.min.js
 ##.dplayer-logo
 ###sponsorAdDiv
@@ -989,14 +1000,9 @@ youneed.win##+js(abort-on-property-read, daau_app)
 bde4.com#@#a[href*=".yabo816."]
 bde4.com#$#a[href*=".yabo816."] { position: absolute !important; left: -3000px !important; }
 bde4.com##+js(set-constant, canRunAds, true)
-@@||cocomanhua.com/js/ad*/*.js
 @@||ohmanhua.com/js/*.js
 @@||cdn.runative-syndicate.com/sdk/*/n.js$domain=onemanhua.com
 @@||runative-syndicate.com/do2/*$domain=onemanhua.com
-cocomanhua.com,ohmanhua.com,onemanhua.com#@#.adBanner
-cocomanhua.com,ohmanhua.com,onemanhua.com##+js(set-constant, NativeAd, noopFunc)
-cocomanhua.com,ohmanhua.com,onemanhua.com##+js(set-constant, __jsadsuccess, true)
-cocomanhua.com,ohmanhua.com,onemanhua.com##+js(no-setTimeout-if, checkSiteNormalLoad)
 ohmanhua.com##+js(abort-on-property-write, __DOMAIN)
 hboav.com#@#.close_box0
 hboav.com#@#script + div[class="cc5278_banner_ad"]
@@ -1124,7 +1130,6 @@ hotpress.info###sidebar > div.widget_text:nth-last-child(-n+3)
 ||ppt.ifvod.tv/upload/video/*.jpg$domain=flyv.tv
 nicotv.me##.clearfix-ads
 nicotv.me##.container > div.slide[style="padding-bottom:0px"]
-||cocomanhua.com/sw.js
 olevod.eu##.guangao
 olevod.eu##a.wbalist_thumb[target="_blank"]
 olevod.com##.B1L
@@ -3416,9 +3421,6 @@ bingfeng.tw##+js(nostif,newtag)
 chinaz.com###imgbd:style(background:none !important;)
 chinaz.com##.CCtop:style(margin-top:10px !important;)
 chinaz.com##.CClose
-cocomanhua.com##+js(aopr,jQuery.fn.html)
-cocomanhua.com##+js(aopr,__cad.cpm_popunder)
-cocomanhua.com##+js(aopr,__ad)
 dlkoo.com##+js(acis,setTimeout,testad)
 fpbsnc.com,lsntzzy3.com##+js(set,ps,noopFunc)
 ip.cn##img[src*="/img/"]:style(height:101px !important;)
