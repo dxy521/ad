@@ -1,5 +1,5 @@
 [Adblock Plus 3.1]
-! Version: 202105261315
+! Version: 202105261340
 ! Title: 自用
 ! Homepage: https://raw.githubusercontent.com/dxy521/ad/master/add.txt
 !-------------屏蔽所有script
@@ -506,17 +506,6 @@ lanzous.com##.foot_info
 lanzoui.com##[style^="color: #8a6d3b;"]
 lanzoui.com##[class="n_foot"]
 lanzoui.com##.foot_info
-! cocomanhua
-!@@||cdndx.clouddata8g.xyz^$script,domain=www.cocomanhua.com
-!@@||cocomanhua.com/js/ad*/*.js
-!cocomanhua.com,ohmanhua.com,onemanhua.com#@#.adBanner
-cocomanhua.com,ohmanhua.com,onemanhua.com##+js(set-constant, NativeAd, noopFunc)
-cocomanhua.com,ohmanhua.com,onemanhua.com##+js(set-constant, __jsadsuccess, true)
-cocomanhua.com,ohmanhua.com,onemanhua.com##+js(no-setTimeout-if, checkSiteNormalLoad)
-||cocomanhua.com/sw.js
-cocomanhua.com##+js(aopr,jQuery.fn.html)
-cocomanhua.com##+js(aopr,__cad.cpm_popunder)
-cocomanhua.com##+js(aopr,__ad)
 ! -------------结束
 mp.weixin.qq.com##[data-mpa-powered-by="yiban.io"]
 haokan.baidu.com##[class="adv skeletonbg ec_result"]
@@ -565,6 +554,13 @@ tophub.today##.m-b-md
 tophub.today###search-in-node
 www.52pojie.cn##[src="source/plugin/csu_wechat_scan/image/scan.gif"]
 m.baidu.com##.se-ft-promlink
+@@||cdndx.clouddata8g.xyz^$script,domain=www.cocomanhua.com
+@@||cocomanhua.com/js/ad*/*.js
+cocomanhua.com,ohmanhua.com,onemanhua.com#@#.adBanner
+cocomanhua.com,ohmanhua.com,onemanhua.com##+js(set-constant, NativeAd, noopFunc)
+cocomanhua.com,ohmanhua.com,onemanhua.com##+js(set-constant, __jsadsuccess, true)
+cocomanhua.com,ohmanhua.com,onemanhua.com##+js(no-setTimeout-if, checkSiteNormalLoad)
+||cocomanhua.com/sw.js
 !----------------me stop------------------------!
 !----------------halflife start------------------------!
 .cn/a.gif?
@@ -3425,6 +3421,9 @@ dlkoo.com##+js(acis,setTimeout,testad)
 fpbsnc.com,lsntzzy3.com##+js(set,ps,noopFunc)
 ip.cn##img[src*="/img/"]:style(height:101px !important;)
 juxia.com##.mian_body:style(background-image:none !important;)
+cocomanhua.com##+js(aopr,jQuery.fn.html)
+cocomanhua.com##+js(aopr,__cad.cpm_popunder)
+cocomanhua.com##+js(aopr,__ad)
 nfmovies.com##+js(set,initAd,noopFunc)
 nfmovies.com##+js(set,adTime,0)
 nfmovies.com##+js(acis,$myui,probe)
