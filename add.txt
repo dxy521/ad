@@ -1,10 +1,19 @@
 [Adblock Plus 3.1]
-! Version: 202105261340
+! Version: 202105261723
 ! Title: 自用
 ! Homepage: https://raw.githubusercontent.com/dxy521/ad/master/add.txt
 !-------------屏蔽所有script
 !--------$script,third-party,~image,subdocument,domain=m.xiaoshuo588.com|eywedu.org|365essay.com
 !----------------me start------------------------!
+www.huaweicloud.com##.down-img
+www.huaweicloud.com##.cloud-blog-detail-top
+@@||www.microsoft.com/onerfstatics/marketingsites-wcus-prod/chinese-simplified/shell/_scrf/css$stylesheet,domain=answers.microsoft.com
+answers.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
+zhidao.baidu.com##.shop-entrance
+zhidao.baidu.com##.jump-top-box
+zhidao.baidu.com##.task-list-button
+zhidao.baidu.com##.footer-wp
+@@||www.microsoft.com/onerfstatics/marketingsites-wcus-prod/chinese-simplified/shell/_scrf/css$stylesheet,domain=support.microsoft.com
 a.exdynsrv.com
 freegames3d.xyz
 syndication.exdynsrv.com
@@ -2576,7 +2585,6 @@ xxl.yzbqz.com
 m.ahwczn.cn
 med.fxfvttu.cn
 v.yanyanbiji.com
-zz.bdstatic.com
 c.tjmzzk.com
 s.goodkee.cn
 c.yanyanbiji.com
@@ -3252,7 +3260,6 @@ www.claiks.com
 js.dazibenwm.com
 china.gzxxty168.com
 66996.top
-zz.bdstatic.com
 histats.com
 img.imagecdn.cn
 xiarikui08.com
