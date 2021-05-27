@@ -1,10 +1,31 @@
 [Adblock Plus 3.1]
-! Version: 202105261723
+! Version: 20210527
 ! Title: 自用
 ! Homepage: https://raw.githubusercontent.com/dxy521/ad/master/add.txt
 !-------------屏蔽所有script
 !--------$script,third-party,~image,subdocument,domain=m.xiaoshuo588.com|eywedu.org|365essay.com
 !----------------me start------------------------!
+www.66law.cn##.consult-bottom-fixed.consult-top-fixed
+www.66law.cn###collect
+www.66law.cn###share-btn
+@@||mbdp02.bdstatic.com/static/landing-pc/css$stylesheet,domain=mbd.baidu.com
+@@||mbdp02.bdstatic.com/static/landing-pc/js$script,domain=mbd.baidu.com
+@@||mbdp02.bdstatic.com/static/landing-pc/img$image,domain=mbd.baidu.com
+||n.sinaimg.cn/tech/hmapp/viewQrcode.jpg$image
+tousu.sina.com.cn##.icon-app
+tousu.sina.com.cn##.icon-weixin
+tousu.sina.com.cn##.icon-weibo
+www.acc5.com##.fadeInUp.animated.pop-box
+www.acc5.com##[title^="手机APP"]
+www.acc5.com##[title="微信公众号"]
+www.acc5.com##.gift
+www.acc5.com##.box-transition.marketing.open-online
+www.acc5.com##.gift + li
+www.acc5.com##.container > .mt-20
+www.acc5.com##.ask-detail-right-material-template
+m.bilibili.com#@#[class*="open-app"]
+cocomanhua.com/template/vfed/asset/js/sidebar.js
+m.s.tpcdn.top/hm/cdn/static
 www.huaweicloud.com##.down-img
 www.huaweicloud.com##.cloud-blog-detail-top
 @@||www.microsoft.com/onerfstatics/marketingsites-wcus-prod/chinese-simplified/shell/_scrf/css$stylesheet,domain=answers.microsoft.com
@@ -3424,13 +3445,13 @@ bingfeng.tw##+js(nostif,newtag)
 chinaz.com###imgbd:style(background:none !important;)
 chinaz.com##.CCtop:style(margin-top:10px !important;)
 chinaz.com##.CClose
+cocomanhua.com##+js(aopr,jQuery.fn.html)
+cocomanhua.com##+js(aopr,__cad.cpm_popunder)
+cocomanhua.com##+js(aopr,__ad)
 dlkoo.com##+js(acis,setTimeout,testad)
 fpbsnc.com,lsntzzy3.com##+js(set,ps,noopFunc)
 ip.cn##img[src*="/img/"]:style(height:101px !important;)
 juxia.com##.mian_body:style(background-image:none !important;)
-cocomanhua.com##+js(aopr,jQuery.fn.html)
-cocomanhua.com##+js(aopr,__cad.cpm_popunder)
-cocomanhua.com##+js(aopr,__ad)
 nfmovies.com##+js(set,initAd,noopFunc)
 nfmovies.com##+js(set,adTime,0)
 nfmovies.com##+js(acis,$myui,probe)
