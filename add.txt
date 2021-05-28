@@ -1,10 +1,18 @@
 [Adblock Plus 3.1]
-! Version: 20210527
+! Version: 20210528
 ! Title: 自用
 ! Homepage: https://raw.githubusercontent.com/dxy521/ad/master/add.txt
 !-------------屏蔽所有script
 !--------$script,third-party,~image,subdocument,domain=m.xiaoshuo588.com|eywedu.org|365essay.com
 !----------------me start------------------------!
+##[class*="app_download"]
+##[class*="apk-download"]
+@@||www.microsoft.com/onerfstatics/marketingsites-wcus-prod/chinese-simplified/shell/_scrf/css$stylesheet,domain=account.microsoft.com
+www.doc88.com##.edit-tips
+m.jw99.top##.stat
+m.jw99.top##.taskStatus.content
+myzaker.com##.right>:first-child
+www.163.com##.newsapp-qrcode
 www.66law.cn##.consult-bottom-fixed.consult-top-fixed
 www.66law.cn###collect
 www.66law.cn###share-btn
