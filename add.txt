@@ -1,10 +1,29 @@
 [Adblock Plus 3.1]
-! Version: 20210528
+! Version: 20210531
 ! Title: 自用
 ! Homepage: https://raw.githubusercontent.com/dxy521/ad/master/add.txt
 !-------------屏蔽所有script
 !--------$script,third-party,~image,subdocument,domain=m.xiaoshuo588.com|eywedu.org|365essay.com
 !----------------me start------------------------!
+v.qq.com###pc_client
+v.qq.com##.quick_vip.quick_item
+www.iqiyi.com###nav_renewBtn
+www.iqiyi.com###nav_game
+www.iqiyi.com###nav_appDown
+www.iqiyi.com##.fhy_ydBox.hy_ydBox
+youku.com##.u-panel_3C81k.panel_asGkf
+youku.com##.u-app_Ubbmj
+youku.com##.u-vip_3-BwE
+youku.com##.qr-wrap
+www.zhihu.com##.WeiboAd-wrap
+www.zhihu.com##.MobileAppHeader-downloadLink
+www.zhihu.com##.is-shown.OpenInApp.OpenInAppButton
+www.zhihu.com##.CommentsForOia > .Button--blue.Button--primary.Button
+baike.baidu.com##[style="height: 51.5625px"]
+baike.baidu.com##[style="height: 51.5625px"] + ul
+www.baidu.com##[tpl="right_game_recommend"]
+www.iqiyi.com##[style="position:relative;"].ch-classify__part
+##.adsbytrafficjunky
 ##[class*="app_download"]
 ##[class*="apk-download"]
 @@||www.microsoft.com/onerfstatics/marketingsites-wcus-prod/chinese-simplified/shell/_scrf/css$stylesheet,domain=account.microsoft.com
@@ -323,7 +342,6 @@ www.tube8.com###adBlockAlert
 www.tube8.com##.js-remove-ads-premium-link
 www.tube8.com##[href$="#advertising"]
 tube8.com###announcement_ticker
-tube8.com##.adsbytrafficjunky
 tube8.com##.gridList > [class]:has(.adsbytrafficjunky)
 tube8.com##[href^="https://ads.trafficjunky.net/ads"]
 tube8.com##input + div:has(.adsbytrafficjunky)
