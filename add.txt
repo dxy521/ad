@@ -1,10 +1,14 @@
 [Adblock Plus 3.1]
-! Version: 20210531
+! Version: 20210602
 ! Title: 自用
 ! Homepage: https://raw.githubusercontent.com/dxy521/ad/master/add.txt
 !-------------屏蔽所有script
 !--------$script,third-party,~image,subdocument,domain=m.xiaoshuo588.com|eywedu.org|365essay.com
 !----------------me start------------------------!
+baike.baidu.com##[style*="height: 55px"]
+baike.baidu.com##[style*="height: 55px"] + ul
+byokpg.smartapps.cn##.ad-expose
+coolpak.com##.under
 v.qq.com###pc_client
 v.qq.com##.quick_vip.quick_item
 www.iqiyi.com###nav_renewBtn
@@ -177,6 +181,10 @@ wenku.baidu.com##.no-full-screen.qr-wrapper
 wenku.baidu.com##.no-full-screen.side-doc-tool-wrapper
 wenku.baidu.com##.no-full-screen.feedback-wrapper
 wenku.baidu.com##.no-full-screen.helpcenter-wrapper
+www.youporn.com##.e8-column
+daftsex.com##.extension
+topblockchainsolutions.nl
+www.kmaa23.com
 @@||mbdp02.bdstatic.com/static/landing-pc/js$script,domain=baijiahao.baidu.com
 @@||f11.baidu.com/it$image,domain=baijiahao.baidu.com
 @@||mbdp02.bdstatic.com/static/landing-pc/css$stylesheet,domain=baijiahao.baidu.com
@@ -225,7 +233,6 @@ app.myzaker.com##[style="display: block;"]
 @@||fonts.gstatic.com^$font,domain=translate.google.cn
 www.360doc.com###artContent > div
 www.360doc.cn##.old.fixedtoolbar
-www.360doc.cn##[onclick="imgLogArt(1,'w20-26-2');"]
 www.360doc.cn###copyall > div
 ||edu-ad-test-cdn.cdn.bcebos.com/cbe426bb832a7677b7acb72aabf13b62/2f610b983f98b5e0767471abe92ba1de.jpg$image
 ||edu-tob.bdimg.com/v1/pc/4e48a463c34091a7fa489525833883a6-1618206292859.PNG$image
