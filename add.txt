@@ -1,10 +1,17 @@
 [Adblock Plus 3.1]
-! Version: 20210603
+! Version: 20210606
 ! Title: 自用
 ! Homepage: https://raw.githubusercontent.com/dxy521/ad/master/add.txt
 !-------------屏蔽所有script
 !--------$script,third-party,~image,subdocument,domain=m.xiaoshuo588.com|eywedu.org|365essay.com
 !----------------me start------------------------!
+www.zhenbuka2.com##.row > .clearfix.stui-pannel-box
+www.zhenbuka2.com##[style="margin-bottom: 0"]
+yzf.qq.com
+mail.163.com##.main-inner-wrap
+bilibili.com##.login-tip
+www.nfmovies.com##.container.myui-ra-container
+pic.imgdb.cn
 ##.box_con > table
 xueshu.baidu.com##.footer_dy
 xueshu.baidu.com##.dtl_banner
