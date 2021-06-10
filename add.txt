@@ -1,10 +1,18 @@
 [Adblock Plus 3.1]
-! Version: 20210606
+! Version: 20210610
 ! Title: 自用
 ! Homepage: https://raw.githubusercontent.com/dxy521/ad/master/add.txt
 !-------------屏蔽所有script
 !--------$script,third-party,~image,subdocument,domain=m.xiaoshuo588.com|eywedu.org|365essay.com
 !----------------me start------------------------!
+seek.ttpaihang.com
+ss.gerenjianli.com
+www.douyu.com##.layout-Player-toolbar
+v.youku.com##.fn-share.play-fn-li
+v.youku.com##.fn-phonewatch.play-fn-li
+||www.nfmovies.com/static/photo_*.jpg$image
+||pic.imgdb.cn/item/*.jpg$image
+www.nfmovies.com##div.container.myui-ra-container > .row
 www.zhenbuka2.com##.row > .clearfix.stui-pannel-box
 www.zhenbuka2.com##[style="margin-bottom: 0"]
 yzf.qq.com
@@ -44,7 +52,6 @@ www.iqiyi.com##[style="position:relative;"].ch-classify__part
 ##.adsbytrafficjunky
 ##[class*="app_download"]
 ##[class*="apk-download"]
-@@||www.microsoft.com/onerfstatics/marketingsites-wcus-prod/chinese-simplified/shell/_scrf/css$stylesheet,domain=account.microsoft.com
 www.doc88.com##.edit-tips
 m.jw99.top##.stat
 m.jw99.top##.taskStatus.content
@@ -54,7 +61,6 @@ www.66law.cn##.consult-bottom-fixed.consult-top-fixed
 www.66law.cn###collect
 www.66law.cn###share-btn
 @@||mbdp02.bdstatic.com/static/landing-pc/css$stylesheet,domain=mbd.baidu.com
-@@||mbdp02.bdstatic.com/static/landing-pc/js$script,domain=mbd.baidu.com
 @@||mbdp02.bdstatic.com/static/landing-pc/img$image,domain=mbd.baidu.com
 ||n.sinaimg.cn/tech/hmapp/viewQrcode.jpg$image
 tousu.sina.com.cn##.icon-app
@@ -73,13 +79,11 @@ cocomanhua.com/template/vfed/asset/js/sidebar.js
 m.s.tpcdn.top/hm/cdn/static
 www.huaweicloud.com##.down-img
 www.huaweicloud.com##.cloud-blog-detail-top
-@@||www.microsoft.com/onerfstatics/marketingsites-wcus-prod/chinese-simplified/shell/_scrf/css$stylesheet,domain=answers.microsoft.com
 answers.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
 zhidao.baidu.com##.shop-entrance
 zhidao.baidu.com##.jump-top-box
 zhidao.baidu.com##.task-list-button
 zhidao.baidu.com##.footer-wp
-@@||www.microsoft.com/onerfstatics/marketingsites-wcus-prod/chinese-simplified/shell/_scrf/css$stylesheet,domain=support.microsoft.com
 a.exdynsrv.com
 freegames3d.xyz
 syndication.exdynsrv.com
@@ -199,7 +203,6 @@ www.youporn.com##.e8-column
 daftsex.com##.extension
 topblockchainsolutions.nl
 www.kmaa23.com
-@@||mbdp02.bdstatic.com/static/landing-pc/js$script,domain=baijiahao.baidu.com
 @@||f11.baidu.com/it$image,domain=baijiahao.baidu.com
 @@||mbdp02.bdstatic.com/static/landing-pc/css$stylesheet,domain=baijiahao.baidu.com
 m.baidu.com##.ec_ad_results
@@ -1330,7 +1333,6 @@ nfmovies.com#@?#div[id]:-abp-has(>img[onclick="openurl()"])
 */ad.
 */ad/$script,subdocument,media
 */ad_
-*/ad-
 */ad0$script
 */ad1$script
 */ad2$script
