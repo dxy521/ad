@@ -1,10 +1,14 @@
-[Adblock Plus 3.1]
-! Version: 20210610
+﻿[Adblock Plus 3.1]
+! Version: 20210612
 ! Title: 自用
 ! Homepage: https://raw.githubusercontent.com/dxy521/ad/master/add.txt
 !-------------屏蔽所有script
 !--------$script,third-party,~image,subdocument,domain=m.xiaoshuo588.com|eywedu.org|365essay.com
 !----------------me start------------------------!
+www.coolapk.com##.apk_right
+www.coolapk.com##.left_download
+www.coolapk.com###footer
+www.iqiyi.com##.player-mnb-right
 seek.ttpaihang.com
 ss.gerenjianli.com
 www.douyu.com##.layout-Player-toolbar
