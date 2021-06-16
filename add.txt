@@ -1,10 +1,13 @@
 ﻿[Adblock Plus 3.1]
-! Version: 20210612
+! Version: 20210616
 ! Title: 自用
 ! Homepage: https://raw.githubusercontent.com/dxy521/ad/master/add.txt
-!-------------屏蔽所有script
 !--------$script,third-party,~image,subdocument,domain=m.xiaoshuo588.com|eywedu.org|365essay.com
 !----------------me start------------------------!
+image.baidu.com##li.newfcImgli
+tool.yijingying.com##[class="jconfirm jconfirm-modern jconfirm-open"]
+https://m.umeitu.com/js/top1.js
+v.youku.com##.phone-watch-notice
 www.coolapk.com##.apk_right
 www.coolapk.com##.left_download
 www.coolapk.com###footer
@@ -601,7 +604,6 @@ baike.baidu.com##[style*="height: 74.6625px"]
 baike.baidu.com##.quickNav
 jingyan.baidu.com##[class^="exp-goods-info-area"]
 jingyan.baidu.com###wgt-ad-guess
-jingyan.baidu.com##[style$="overflow: hidden;"]
 jingyan.baidu.com##._2ge1xhg > div > [href^="https://m.baidu.com/baidu.php"]
 xw.qq.com##.go-home.jsx-1603696139
 xw.qq.com##.pictureBottomBtn.jsx-303514326
