@@ -1,9 +1,19 @@
 ﻿[Adblock Plus 3.1]
-! Version: 20210616
+! Version: 20210623
 ! Title: 自用
 ! Homepage: https://raw.githubusercontent.com/dxy521/ad/master/add.txt
 !--------$script,third-party,~image,subdocument,domain=m.xiaoshuo588.com|eywedu.org|365essay.com
 !----------------me start------------------------!
+m.baidu.com##.na-ec-item
+www.govgaungzhou.cn
+tv.wandhi.com##div.table-bordered.table
+v.renrenfabu.com###\39 1banner
+p2p.baojia.com##.redbag
+www.58.com###bannerZp
+||img.58cdn.com.cn/ztzp/2017/patch/58z*1.jpg$image
+sillyflowermachine.com
+23txt.com/images/*.gif$image
+m.imomoe.la###mobile-index > a
 image.baidu.com##li.newfcImgli
 tool.yijingying.com##[class="jconfirm jconfirm-modern jconfirm-open"]
 https://m.umeitu.com/js/top1.js
@@ -33,10 +43,8 @@ xueshu.baidu.com##.dtl_banner
 pc.weizhenwx.com
 v1.cnzz.com
 xg.binkens.cn
-byokpg.smartapps.cn##[class*="__bdad-wrap"]
 baike.baidu.com##[style*="height: 55px"]
 baike.baidu.com##[style*="height: 55px"] + ul
-byokpg.smartapps.cn##.ad-expose
 coolpak.com##.under
 v.qq.com###pc_client
 v.qq.com##.quick_vip.quick_item
@@ -379,9 +387,6 @@ tube8.com##input + div:has(.adsbytrafficjunky)
 ||cdn.jsdelivr.net/gh/xmzt/static/mzitu$script,domain=m.mzitu.com
 h5.xinpianchang.com##.download
 h5.xinpianchang.com##.sixin-btn
-byokpg.smartapps.cn##[class="tb-ad"]
-byokpg.smartapps.cn##[class="ad"]
-byokpg.smartapps.cn##ad
 m.liulanqi.net##body > .ALIKE
 m.liulanqi.net##.bg.news_info.news_detail > .ALIKE
 www.cnblogs.com###blog_post_info
@@ -620,7 +625,6 @@ qq717.com/js/wap
 m.qq717.com##.zw1ljPz
 huanyue123.com/js/xiyuan
 899zw.com/js/common
-byokpg.smartapps.cn##.tb-ad
 m.weibo.cn##.card22.m-panel.card
 m.weibo.cn##.card-list > div > .weibo-member.card9.m-panel.card > .card-wrap > .card-main > .card-title
 m.weibo.cn##.slide-wrap.card-main
@@ -647,6 +651,13 @@ cocomanhua.com,ohmanhua.com,onemanhua.com##+js(set-constant, NativeAd, noopFunc)
 cocomanhua.com,ohmanhua.com,onemanhua.com##+js(set-constant, __jsadsuccess, true)
 cocomanhua.com,ohmanhua.com,onemanhua.com##+js(no-setTimeout-if, checkSiteNormalLoad)
 ||cocomanhua.com/sw.js
+byokpg.smartapps.cn##[class*="__bdad-wrap"]
+byokpg.smartapps.cn##.ad-expose
+byokpg.smartapps.cn##[class="ad"]
+byokpg.smartapps.cn##ad
+byokpg.smartapps.cn##.tb-ad
+byokpg.smartapps.cn##swan-view[class="tb-ad"]
+byokpg.smartapps.cn##[class^="t-banner"]
 !----------------me stop------------------------!
 !----------------halflife start------------------------!
 .cn/a.gif?
