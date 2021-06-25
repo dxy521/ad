@@ -1,7 +1,36 @@
 ﻿[Adblock Plus 2.0]
-! Version: 20210624
+! Version: 20210626
 ! Title: 自用
-!----------------me start------------------------!
+!---me start---!
+baike.baidu.com###J-attach-bottom-margin + div
+baike.baidu.com###J-attach-bottom-margin + div + ul
+mbdp02.bdstatic.com
+||ddrk.me/vjs-plugins/videojs.das.min.js
+##.dplayer-logo
+###sponsorAdDiv
+###sponsorAdCountdown
+nfmovies.com##[src*="/pic/tu/"]
+nfmovies.com##[src*="/static/"]
+||nfmovies.com/templets/default/images/js/layer/layer.js
+nfmovies.com##+js(nano-sib)
+nfmovies.com##+js(nostif, container)
+nfmovies.com##body:style(opacity:1!important)
+nfmovies.com##body > div.hidden-xs
+@@||www.nfmovies.com/static/side.jpg
+@@||www.nfmovies.com/pic/tu/banner-03.jpg
+@@||www.nfmovies.com/pic/tu/banner03.jpg
+iqiyi.com##.m-iqyGuide-layer
+blog.csdn.net##.wap-shadowbox.weixin-shadowbox
+blog.csdn.net###operate
+blog.csdn.net##.readall_box
+||csdnimg.cn$script,domain=blog.csdn.net
+www.siguyy.com###layui-layer1
+www.siguyy.com##.layui-layer-shade
+www.f4mm.com/ad.js
+www.govchengdu.cn:*
+www.jpxgmn.cc/wang/aqm*.js
+dcb.yebaike.com
+yebaike.com/skin/mobile/js
 ddrk.me/mtp$image
 www.wenshushu.cn##.not-tree
 tieba.baidu.com##.tb-backflow
@@ -45,8 +74,6 @@ xueshu.baidu.com##.dtl_banner
 pc.weizhenwx.com
 v1.cnzz.com
 xg.binkens.cn
-baike.baidu.com##[style*="height: 55px"]
-baike.baidu.com##[style*="height: 55px"] + ul
 coolpak.com##.under
 v.qq.com###pc_client
 v.qq.com##.quick_vip.quick_item
@@ -62,8 +89,6 @@ www.zhihu.com##.WeiboAd-wrap
 www.zhihu.com##.MobileAppHeader-downloadLink
 www.zhihu.com##.is-shown.OpenInApp.OpenInAppButton
 www.zhihu.com##.CommentsForOia > .Button--blue.Button--primary.Button
-baike.baidu.com##[style="height: 51.5625px"]
-baike.baidu.com##[style="height: 51.5625px"] + ul
 www.baidu.com##[tpl="right_game_recommend"]
 www.iqiyi.com##[style="position:relative;"].ch-classify__part
 ##.adsbytrafficjunky
@@ -110,15 +135,12 @@ haokan.baidu.com##.navigation-download
 ##[class*="open-app"]
 m.shixiong.xyz
 www.52pojie.cn###navmenu
-$script,domain=blog.csdn.net
-blog.csdn.net##.btn_mod
 m.douban.com##.TalionNav-static > a
 m.douban.com#@#.openapp
 www.jianshu.com##.header-wrap
 www.jianshu.com###footer
 www.jianshu.com##.call-app-btn
 ##.zw1ljPz
-baike.baidu.com##[style*="height: 51.2875px"]
 baike.baidu.com##[onclick^="page.Mixedor.mixedOpen"]
 www.jpxgmn.cc/tj.js
 www.govhangzhou.cn
@@ -587,6 +609,7 @@ m.bilibili.com##.right > .face
 18comic.art###guide-modal > .modal-dialog > .text-center.modal-content > .modal-body
 18comic.art##.footer
 18comic.art##.partialViewSlider-outerwrapper
+18comic.art##.owl-drag.owl-loaded.partial-view.owl-carousel
 ! 蓝奏云
 lanzoux.com##[style^="color: #8a6d3b;"]
 lanzoux.com##[class="n_foot"]
@@ -604,7 +627,6 @@ haokan.baidu.com##[class="adv skeletonbg ec_result"]
 app.mi.com##.slide-float
 jingyan.baidu.com##.ad-card
 baike.baidu.com###J-super-layer-promote
-baike.baidu.com##[style*="height: 74.6625px"]
 baike.baidu.com##.quickNav
 jingyan.baidu.com##[class^="exp-goods-info-area"]
 jingyan.baidu.com###wgt-ad-guess
@@ -614,7 +636,6 @@ xw.qq.com##.pictureBottomBtn.jsx-303514326
 xw.qq.com##.shareA.jsx-3819145385
 xw.qq.com##.channel-entry.jsx-2375966888
 xw.qq.com##.fixed.footer.jsx-2005580460
-baike.baidu.com##[style="height: 146.025px"]
 ddbiquge.cc/ddbd/new
 xyqxs.cc/js/book
 miaoshuzhai.com/js/lazyload
@@ -650,8 +671,8 @@ byokpg.smartapps.cn##ad
 byokpg.smartapps.cn##.tb-ad
 byokpg.smartapps.cn##swan-view[class="tb-ad"]
 byokpg.smartapps.cn##[class^="t-banner"]
-!----------------me stop------------------------!
-!----------------adguard start------------------------!
+!---me stop---!
+!---adguard start---!
 ||my.my-hr.cn^
 ||one.toumppk.cn^
 ||trenhdg.com^$third-party
@@ -1182,8 +1203,8 @@ nfmovies.com#@?#div[id]:-abp-has(>img[onclick="openurl()"])
 ||s1-a4.ifvod.tv^$redirect=noop-0.1s.mp3,domain=ifvod.tv,media
 ||*^sdtfrom=^$media,redirect=noop-0.1s.mp3,domain=qq.com
 ||lts*.qq.com^*.ts?index=$media,redirect=noop-0.1s.mp3,domain=qq.com
-!----------------adguard stop------------------------!
-!----------------cjx-ublock start------------------------!
+!---adguard stop---!
+!---cjx-ublock start---!
 1010jiajiao.com##+js(aopr,jdrand)
 3g.163.com##+js(set,specialHideAd,true)
 4399.com##+js(aopr,defaultbackgroundimg)
@@ -1234,19 +1255,4 @@ iqiyi.com##+js(nano-sib)
 @@||t7z.cupid.iqiyi.com/show$script,1p
 iqiyi.com##div[data-adzone][adid]
 qq.com##+js(json-prune, ad, vinfo)
-!----------------cjx-ublock stop------------------------!
-mbdp02.bdstatic.com
-||ddrk.me/vjs-plugins/videojs.das.min.js
-##.dplayer-logo
-###sponsorAdDiv
-###sponsorAdCountdown
-nfmovies.com##[src*="/pic/tu/"]
-nfmovies.com##[src*="/static/"]
-||nfmovies.com/templets/default/images/js/layer/layer.js
-nfmovies.com##+js(nano-sib)
-nfmovies.com##+js(nostif, container)
-nfmovies.com##body:style(opacity:1!important)
-nfmovies.com##body > div.hidden-xs
-@@||www.nfmovies.com/static/side.jpg
-@@||www.nfmovies.com/pic/tu/banner-03.jpg
-@@||www.nfmovies.com/pic/tu/banner03.jpg
+!---cjx-ublock stop---!
