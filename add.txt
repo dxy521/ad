@@ -1,7 +1,21 @@
 ﻿[Adblock Plus 2.0]
-! Version: 20210626
+! Version: 20210627
 ! Title: 自用
 !---me start---!
+m.huxiu.com##.author-appreciates-wrap
+m.huxiu.com##.article-recommend-wrap
+m.huxiu.com##.js-top-fixed.bgW.article-detail-swiper-container
+m.huxiu.com##.pl-wrap
+m.huxiu.com##.placeholder-box
+m.huxiu.com##.c30.hot-so-wrap
+m.huxiu.com###related-article-wrap
+m.huxiu.com##.article-content-share.share-box
+m.huxiu.com##.products
+m.ithome.com##.grade
+m.ithome.com###bd-share-box
+m.ithome.com##.hot-app
+m.ithome.com##.footer
+www.360doc.cn##[onclick="imgLogArt(1,'w20-26-2');"]
 baike.baidu.com###J-attach-bottom-margin + div
 baike.baidu.com###J-attach-bottom-margin + div + ul
 mbdp02.bdstatic.com
@@ -287,7 +301,6 @@ translate.google.cn##.a88hkc
 app.myzaker.com##[style="display: block;"]
 www.360doc.com###artContent > div
 www.360doc.cn##.old.fixedtoolbar
-www.360doc.cn###copyall > div
 ||edu-ad-test-cdn.cdn.bcebos.com/cbe426bb832a7677b7acb72aabf13b62/2f610b983f98b5e0767471abe92ba1de.jpg$image
 ||edu-tob.bdimg.com/v1/pc/4e48a463c34091a7fa489525833883a6-1618206292859.PNG$image
 wenku.baidu.com##[src="https://edu-tob.bdimg.com/v1/pc/4e48a463c34091a7fa489525833883a6-1618206292859.PNG"]
