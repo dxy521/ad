@@ -2,6 +2,10 @@
 ! Version: 20210627
 ! Title: 自用
 !---me start---!
+greasyfork.org###script-show-info-ad
+greasyfork.org##.carbon-ad.ad
+dos.zczc.cz###advertise
+fancybox.top2099.com
 m.huxiu.com##.author-appreciates-wrap
 m.huxiu.com##.article-recommend-wrap
 m.huxiu.com##.js-top-fixed.bgW.article-detail-swiper-container
