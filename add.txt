@@ -1,7 +1,16 @@
 ﻿[Adblock Plus 2.0]
-! Version: 20210627
+! Version: 20210704
 ! Title: 自用
 !---me start---!
+xs123.net/js
+dada.tuku.com
+smalltown.top
+##[style="border-radius:8px;background-color:#f44336;padding:6px;"]
+cn.bing.com###ev_hook
+www.jianshu.com###__next > footer
+www.jianshu.com###note-page-comment
+www.jianshu.com##[aria-label="简书钻"]
+www.jianshu.com##a:contains(抽奖)
 greasyfork.org###script-show-info-ad
 greasyfork.org##.carbon-ad.ad
 dos.zczc.cz###advertise
@@ -23,20 +32,6 @@ www.360doc.cn##[onclick="imgLogArt(1,'w20-26-2');"]
 baike.baidu.com###J-attach-bottom-margin + div
 baike.baidu.com###J-attach-bottom-margin + div + ul
 mbdp02.bdstatic.com
-||ddrk.me/vjs-plugins/videojs.das.min.js
-##.dplayer-logo
-###sponsorAdDiv
-###sponsorAdCountdown
-nfmovies.com##[src*="/pic/tu/"]
-nfmovies.com##[src*="/static/"]
-||nfmovies.com/templets/default/images/js/layer/layer.js
-nfmovies.com##+js(nano-sib)
-nfmovies.com##+js(nostif, container)
-nfmovies.com##body:style(opacity:1!important)
-nfmovies.com##body > div.hidden-xs
-@@||www.nfmovies.com/static/side.jpg
-@@||www.nfmovies.com/pic/tu/banner-03.jpg
-@@||www.nfmovies.com/pic/tu/banner03.jpg
 iqiyi.com##.m-iqyGuide-layer
 blog.csdn.net##.wap-shadowbox.weixin-shadowbox
 blog.csdn.net###operate
@@ -341,78 +336,33 @@ m.v.qq.com##.mod_source
 m.v.qq.com##.js_open_app.btn_user_hd
 www.dy10000.com##.padding-0.col-xs-1.col-lg-wide-75 > [href]
 ||static-s.iqiyi.com/common/20200707/qiyue2.0/d3/28/ca02fe9895ac47af853a9aa813445d641262761083981543552.png$image
-||commercialvalue.org^
-||celeritascdn.com^
-##a[href^="https://landing.brazzersnetwork.com/"]
 daftsex.com##a[href*="theporndude.com"]
 daftsex.com##a[href*="?ats="]
 /^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=1vag.com|4tube.com|adult-channels.com|analdin.com|biguz.net|bogrodius.com|daftsex.com|fantasti.cc|fuqer.com|fux.com|hclips.com|heavy-r.com|incesto69.com|indianbfvideos.com|megapornx.com|milfzr.com|mypornhere.com|niceporn.xxx|porn555.com|pornerbros.com|pornj.com|pornl.com|pornototale.com|porntube.com|sexu.com|sss.xxx|thisav.com|titkino.net|tubepornclassic.com|tuberel.com|tubev.sex|txxx.com|vidmo.org|vpornvideos.com|xozilla.com|youporn.lc|youpornhub.it|yourdailypornstars.com
 youporn.com##.footer-element-container
 youporn.com###pb_template
 www.onlinedoctranslator.com##.ez-video-wrap
-##.adBox
-||3naked.com/nb/
 /exo/exonative
 ||filexan.com^$3p
-||chaturbate.com/in/
-##.adsBox
-||popcash.net^
+##[class*="thumb-ad"]
+##[class*="thumb-nat-ad"]
+##[id*="ad-footer"]
+/^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=1vag.com|4tube.com|adult-channels.com|analdin.com|biguz.net|bogrodius.com|daftsex.com|fantasti.cc|fuqer.com|fux.com|hclips.com|heavy-r.com|megapornx.com|milfzr.com|mypornhere.com|niceporn.xxx|porn555.com|pornchimp.com|pornerbros.com|pornj.com|pornl.com|pornototale.com|porntube.com|sexu.com|sss.xxx|thisav.com|titkino.net|tubepornclassic.com|tuberel.com|tubev.sex|txxx.com|vidmo.org|vpornvideos.com|xozilla.com|youporn.lc|youpornhub.it|yourdailypornstars.com
 www.bilibili.com##.clearfix.h5-download-bar.d-f-s
 thumbzilla.com###greeting
-##[id^="div-gpt-ad"]
-##.ezoic-floating-bottom
-##.ezoic-ad
-##.ezo_ad
-##.ezmob-footer
-##.adtester-container
-##.ads-wrap
-/porpoiseant/*
-||ezoic.net^
 ||imasdk.googleapis.com^$3p
-/detroitchicago/houston.js
-||realsrv.com^
-##.remove-ads
-###video-ad
-###ad-header-mobile-contener
-###ad-footer
-/_xa/ads_
-/ht.js?site_
 ||trafficjunky.com^$3p
 pornhub.com##.sniperModeEngaged
-##.ad-link
 pornhub.com##.video-wrapper > #player + [class]
-##.sponsor-text
-/_xa/ads?
 ||twinrdsrv.com^$3p
-_300x250_
-##.advertisement-box
-##a[href^="https://www.iyalc.com/"]
 porndoe.com##.vpb-content
-||pgonews.pro^
-##.video-side__adv_title
-###adsense1
-||riverpush.com^
-||adtng.com^
-||resalag.com^
-||o333o.com^
 tube8.com##div[style="background-color: rgb(255, 255, 255); display: block;"]
-##a[href^="https://sexsimulator.game/tab/?SID="]
 tube8.com##a[href*="?ats="]
 |https://$xmlhttprequest,domain=tube8.com
 www.4tube.com##.nyo-rdo
 www.4tube.com##.la-jessy-frame
 www.4tube.com##.jessy-grid
-4tube.com##img[src][style][width]
 4tube.com##a[href*="/redirect-channel/"]
-4tube.com##.cpp
-##.ad_footer
-##.ad_container
-###ad_player
-||4tube.com/assets/abpe-
-||4tube.com/assets/padb-
-||4tube.com/assets/adn-
-||4tube.com/assets/adf-
-||exosrv.com^
 porndoe.com##.fly-in-content
 porndoe.com##.videos-tsq
 www.tube8.com###adBlockAlert
@@ -688,6 +638,20 @@ byokpg.smartapps.cn##ad
 byokpg.smartapps.cn##.tb-ad
 byokpg.smartapps.cn##swan-view[class="tb-ad"]
 byokpg.smartapps.cn##[class^="t-banner"]
+||ddrk.me/vjs-plugins/videojs.das.min.js
+##.dplayer-logo
+###sponsorAdDiv
+###sponsorAdCountdown
+nfmovies.com##[src*="/pic/tu/"]
+nfmovies.com##[src*="/static/"]
+||nfmovies.com/templets/default/images/js/layer/layer.js
+nfmovies.com##+js(nano-sib)
+nfmovies.com##+js(nostif, container)
+nfmovies.com##body:style(opacity:1!important)
+nfmovies.com##body > div.hidden-xs
+@@||www.nfmovies.com/static/side.jpg
+@@||www.nfmovies.com/pic/tu/banner-03.jpg
+@@||www.nfmovies.com/pic/tu/banner03.jpg
 !---me stop---!
 !---adguard start---!
 ||my.my-hr.cn^
@@ -1273,3 +1237,22 @@ iqiyi.com##+js(nano-sib)
 iqiyi.com##div[data-adzone][adid]
 qq.com##+js(json-prune, ad, vinfo)
 !---cjx-ublock stop---!
+! 乘风新增
+v.youku.com##+js(aeld,dblclick,ykplayer.switchFullscreen)
+iqiyi.com##+js(aeld,dblclick,t.fullToggle)
+qq.com##div.l_qq_com
+miguvideo.com##+js(aeld,dblclick,isImmediatePropagationStopped)
+agefans.cc##+js(noeval-if, devtoolsDetector)
+||pstatp.com/origin/$image,domain=agefans.cc|88kan.tv
+haitur.com##.dplayer-web-fullscreen-fix header
+||haitur.com/template/default/static/js/middle.js$script
+88kan.tv,vodxc.org##+js(ra, target, a[href^="/"])
+nunuyy.cc##video:style(max-height:100% !important)
+@@||cdn.jsdelivr.net/$script,domain=nunuyy.cc
+*$3p,script,domain=nunuyy.cc
+adx1.com
+ancheonyo.fun
+andcanbere.fun
+envyindebted.com
+freychang.fun
+in-page-push.com
