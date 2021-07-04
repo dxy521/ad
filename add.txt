@@ -1,7 +1,10 @@
 ﻿[Adblock Plus 2.0]
-! Version: 20210704
+! Version: 202107042211
 ! Title: 自用
 !---me start---!
+m.bilibili.com##.list-view__state
+m.bilibili.com###commentMore
+mss0.bdstatic.com/se/static/js/iphone/async
 xs123.net/js
 dada.tuku.com
 smalltown.top
@@ -46,7 +49,6 @@ dcb.yebaike.com
 yebaike.com/skin/mobile/js
 ddrk.me/mtp$image
 www.wenshushu.cn##.not-tree
-tieba.baidu.com##.tb-backflow
 ||www.edrawsoft.cn/productfiles/commonimg/bottom-banner.png$image
 m.baidu.com##.na-ec-item
 www.govgaungzhou.cn
@@ -300,9 +302,6 @@ translate.google.cn##.a88hkc
 app.myzaker.com##[style="display: block;"]
 www.360doc.com###artContent > div
 www.360doc.cn##.old.fixedtoolbar
-||edu-ad-test-cdn.cdn.bcebos.com/cbe426bb832a7677b7acb72aabf13b62/2f610b983f98b5e0767471abe92ba1de.jpg$image
-||edu-tob.bdimg.com/v1/pc/4e48a463c34091a7fa489525833883a6-1618206292859.PNG$image
-wenku.baidu.com##[src="https://edu-tob.bdimg.com/v1/pc/4e48a463c34091a7fa489525833883a6-1618206292859.PNG"]
 wenku.baidu.com##.vip-activity-wrap-new
 wenku.baidu.com##.operate-wrapper > .link-close
 wenku.baidu.com##.no-full-screen.ex-wrapper
@@ -335,10 +334,9 @@ m.v.qq.com##.mod_multi_figures_h.mod_sideslip_h.mod_box
 m.v.qq.com##.mod_source
 m.v.qq.com##.js_open_app.btn_user_hd
 www.dy10000.com##.padding-0.col-xs-1.col-lg-wide-75 > [href]
-||static-s.iqiyi.com/common/20200707/qiyue2.0/d3/28/ca02fe9895ac47af853a9aa813445d641262761083981543552.png$image
 daftsex.com##a[href*="theporndude.com"]
 daftsex.com##a[href*="?ats="]
-/^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=1vag.com|4tube.com|adult-channels.com|analdin.com|biguz.net|bogrodius.com|daftsex.com|fantasti.cc|fuqer.com|fux.com|hclips.com|heavy-r.com|incesto69.com|indianbfvideos.com|megapornx.com|milfzr.com|mypornhere.com|niceporn.xxx|porn555.com|pornerbros.com|pornj.com|pornl.com|pornototale.com|porntube.com|sexu.com|sss.xxx|thisav.com|titkino.net|tubepornclassic.com|tuberel.com|tubev.sex|txxx.com|vidmo.org|vpornvideos.com|xozilla.com|youporn.lc|youpornhub.it|yourdailypornstars.com
+/^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=1vag.com|4tube.com|adult-channels.com|analdin.com|biguz.net|bogrodius.com|daftsex.com|fantasti.cc|fuqer.com|fux.com|hclips.com|heavy-r.com|incesto69.com|indianbfvideos.com|megapornx.com|milfzr.com|mypornhere.com|niceporn.xxx|porn555.com|pornerbros.com|pornj.com|pornl.com|pornototale.com|porntube.com|sexu.com|sss.xxx|thisav.com|titkino.net|tubepornclassic.com|tuberel.com|tubev.sex|txxx.com|vidmo.org|vpornvideos.com|xozilla.com|youporn.lc|youpornhub.it|yourdailypornstars.com|pornchimp.com
 youporn.com##.footer-element-container
 youporn.com###pb_template
 www.onlinedoctranslator.com##.ez-video-wrap
@@ -347,7 +345,6 @@ www.onlinedoctranslator.com##.ez-video-wrap
 ##[class*="thumb-ad"]
 ##[class*="thumb-nat-ad"]
 ##[id*="ad-footer"]
-/^https?:\/\/.*\/.*sw[0-9._].*/$script,domain=1vag.com|4tube.com|adult-channels.com|analdin.com|biguz.net|bogrodius.com|daftsex.com|fantasti.cc|fuqer.com|fux.com|hclips.com|heavy-r.com|megapornx.com|milfzr.com|mypornhere.com|niceporn.xxx|porn555.com|pornchimp.com|pornerbros.com|pornj.com|pornl.com|pornototale.com|porntube.com|sexu.com|sss.xxx|thisav.com|titkino.net|tubepornclassic.com|tuberel.com|tubev.sex|txxx.com|vidmo.org|vpornvideos.com|xozilla.com|youporn.lc|youpornhub.it|yourdailypornstars.com
 www.bilibili.com##.clearfix.h5-download-bar.d-f-s
 thumbzilla.com###greeting
 ||imasdk.googleapis.com^$3p
@@ -444,7 +441,6 @@ openys.cn##.affix.-roll > .widget_custom_html.widget.widget_text
 ||lcy124.oss-cn-beijing.aliyuncs.com/20200509145408.jpg$image
 openys.cn##.sticky > ul
 openys.cn##pre
-www.f4mm.com##div.col-md-6:nth-of-type(1)
 www.f4mm.com##.text-center.col-sm-12.offset-md-1.col-md-10 > .row
 m.baidu.com##._2F1mx
 www.coolapk.com##DIV.under
@@ -461,7 +457,6 @@ www.ccb.com##body > .index_x_banner
 m.mm131.net##[src="/css/bannerb.png"]
 m.mm131.net##.close
 m.mm131.net##.bannert
-m.mm131.net##div:nth-of-type(6)
 openys.cn##.ssr-posthd.ssr-content.ssr
 openys.cn##.ssr-related.ssr-content.ssr
 openys.cn##.ssr-post.ssr-content-bom.ssr
@@ -482,8 +477,6 @@ www.bilibili.com##.bilibili-player-video-toast-item
 tophub.today###appbar
 tophub.today###tabbed-header-mask > .f
 tophub.today###tabbed-header-mask
-tophub.today##div.m-b-md:nth-of-type(2)
-tophub.today##div.m-b-md:nth-of-type(1)
 tophub.today##.Zd-p-ae > div.cc-dc > .cc-dc-ec > .cc-dc-Cb
 tophub.today##.b-L.Ib-T-L
 tophub.today##.b-oc-L.Xc-ec-Gb > .Ib-T-yc.Ib-T
@@ -498,19 +491,9 @@ m.baidu.com##.c-invoke-show-class__NcU4a.c-line-clamp1
 m.baidu.com##.animation.c-bg-color-white.new-ux-recom-wrapper.c-recomm-wrap > .c-line-ivkmask.c-line-clamp1
 baijiahao.baidu.com##.backFlowText
 baijiahao.baidu.com##.openImg
-baijiahao.baidu.com##.related-news > ._3Lg9_aL1ZIf7Ry_XN0wdHc > ._1T6TbV3IOYsTyKUDLU3h5K > ._2zI_1HDV_e-G25lK7muW14
-baijiahao.baidu.com###page_wrapper > div > div > ._3Lg9_aL1ZIf7Ry_XN0wdHc > ._1T6TbV3IOYsTyKUDLU3h5K > ._2zI_1HDV_e-G25lK7muW14
-baijiahao.baidu.com##._1-nFvWd71g07irMlxzeVz_
-baijiahao.baidu.com##._2XKy-X8cYkv-8A7g0HIRIi.thtUQTKu7DxOlhuSFOPN-
 mbd.baidu.com##.headDeflectorContainer
 mbd.baidu.com##.openImg
 mbd.baidu.com##.backFlowText
-mbd.baidu.com##._2XKy-X8cYkv-8A7g0HIRIi.thtUQTKu7DxOlhuSFOPN-
-mbd.baidu.com##._1dZbwpATPO52gYzG5MIML
-mbd.baidu.com##.related-news > ._3Lg9_aL1ZIf7Ry_XN0wdHc > ._1T6TbV3IOYsTyKUDLU3h5K > ._2zI_1HDV_e-G25lK7muW14
-mbd.baidu.com###page_wrapper > div > div > ._3Lg9_aL1ZIf7Ry_XN0wdHc > ._1T6TbV3IOYsTyKUDLU3h5K > ._2zI_1HDV_e-G25lK7muW14
-mbd.baidu.com##._1-nFvWd71g07irMlxzeVz_
-mbd.baidu.com##._5TD71NBUVAL0mtzdpUZWj.uukjsi6a_zpZccrqYiI3k
 m.baidu.com##.se-head-logo
 h5.xinpianchang.com##.download-new
 h5.xinpianchang.com##.showMore-box
@@ -519,7 +502,6 @@ h5.xinpianchang.com##.collection-good-box
 h5.xinpianchang.com##.review
 www.xinpianchang.com##.app-download-bar.download
 h5.xinpianchang.com##.activity-bar
-wap.kukudm.com##div:nth-of-type(4)
 wap.kukudm.com##[src="https://img.kukudm.com/ala.jpg"]
 wap.kukudm.com##.record
 wap.kukudm.com##.tXjNHNrZ
@@ -529,16 +511,8 @@ www.xvideos.com##.mobile-hide.menu-login-acct.btn-default.btn
 cn.pornhub.com###topRightProfileMenu
 cn.pornhub.com##.headerBtnsWrapper
 www.baidu.com##[class="hint_right_middle"]
-mp.weixin.qq.com##p:nth-of-type(28)
-mp.weixin.qq.com##p:nth-of-type(27)
-mp.weixin.qq.com##p:nth-of-type(24)
-mp.weixin.qq.com##p:nth-of-type(2)
-mp.weixin.qq.com##p:nth-of-type(1)
-mp.weixin.qq.com##p:nth-of-type(20)
-mp.weixin.qq.com##p:nth-of-type(21)
 mp.weixin.qq.com##.rich_pages
 mp.weixin.qq.com###js_content > section > section > section > section > section > section > section > section > section > section > section > section > section > section > section
-mp.weixin.qq.com##section:nth-of-type(3)
 ||mmbiz.qpic.cn/mmbiz_gif/F1hLEK71icuDqiaEzSWkXSYYbNLGafm0OSCtibmNc163qtTMs8eJAuzub6fBnZjfoxsKaR1Eviaev3gGdIEazSO8XA/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1$image
 jingyan.baidu.com##.task-panel-entrance
 jingyan.baidu.com##.fresh-share-exp-e
@@ -598,11 +572,6 @@ baike.baidu.com##.quickNav
 jingyan.baidu.com##[class^="exp-goods-info-area"]
 jingyan.baidu.com###wgt-ad-guess
 jingyan.baidu.com##._2ge1xhg > div > [href^="https://m.baidu.com/baidu.php"]
-xw.qq.com##.go-home.jsx-1603696139
-xw.qq.com##.pictureBottomBtn.jsx-303514326
-xw.qq.com##.shareA.jsx-3819145385
-xw.qq.com##.channel-entry.jsx-2375966888
-xw.qq.com##.fixed.footer.jsx-2005580460
 ddbiquge.cc/ddbd/new
 xyqxs.cc/js/book
 miaoshuzhai.com/js/lazyload
@@ -1237,7 +1206,7 @@ iqiyi.com##+js(nano-sib)
 iqiyi.com##div[data-adzone][adid]
 qq.com##+js(json-prune, ad, vinfo)
 !---cjx-ublock stop---!
-! 乘风新增
+!---乘风新增 start---!
 v.youku.com##+js(aeld,dblclick,ykplayer.switchFullscreen)
 iqiyi.com##+js(aeld,dblclick,t.fullToggle)
 qq.com##div.l_qq_com
@@ -1256,3 +1225,4 @@ andcanbere.fun
 envyindebted.com
 freychang.fun
 in-page-push.com
+!---乘风新增 stop---!
