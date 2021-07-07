@@ -1,7 +1,9 @@
 ﻿[Adblock Plus 2.0]
-! Version: 202107042211
+! Version: 20210707
 ! Title: 自用
 !---me start---!
+##[style="bottom:.68rem;"]
+zhaopin.baidu.com##.listitem > a[target="_blank"]
 m.bilibili.com##.list-view__state
 m.bilibili.com###commentMore
 mss0.bdstatic.com/se/static/js/iphone/async
@@ -600,12 +602,11 @@ tophub.today##.m-b-md
 tophub.today###search-in-node
 www.52pojie.cn##[src="source/plugin/csu_wechat_scan/image/scan.gif"]
 m.baidu.com##.se-ft-promlink
+##.tb-ad
 byokpg.smartapps.cn##[class*="__bdad-wrap"]
 byokpg.smartapps.cn##.ad-expose
 byokpg.smartapps.cn##[class="ad"]
-byokpg.smartapps.cn##ad
 byokpg.smartapps.cn##.tb-ad
-byokpg.smartapps.cn##swan-view[class="tb-ad"]
 byokpg.smartapps.cn##[class^="t-banner"]
 ||ddrk.me/vjs-plugins/videojs.das.min.js
 ##.dplayer-logo
