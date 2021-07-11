@@ -1,9 +1,9 @@
-﻿[Adblock Plus 2.0]
+[Adblock Plus 2.0]
 ! Version: 20210711
 ! Title: 自用
 !---me start---!
 m.xiurenji.cc
-cocomanhua.com/js/ad_/mobile$image,domain=cocomanhua.com
+cocomanhua.com/js/ad_/mobile$image,domain=cocomanhua.com,important
 https://a.exdynsrv.com/nativeads-v2.js
 cocomanhua.com##.website-fix-ad-close-button
 feed-image.baidu.com/0/pic/*.jpg
