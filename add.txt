@@ -1,7 +1,14 @@
 ﻿[Adblock Plus 2.0]
-! Version: 20210707
+! Version: 20210711
 ! Title: 自用
 !---me start---!
+m.xiurenji.cc
+cocomanhua.com/js/ad_/mobile$image,domain=cocomanhua.com
+https://a.exdynsrv.com/nativeads-v2.js
+cocomanhua.com##.website-fix-ad-close-button
+feed-image.baidu.com/0/pic/*.jpg
+mip.680.com##mip-iframe
+www.ttyyuuoo.com/xxgg/app.js
 ##[style="bottom:.68rem;"]
 zhaopin.baidu.com##.listitem > a[target="_blank"]
 m.bilibili.com##.list-view__state
@@ -1166,9 +1173,9 @@ bukaivip.com,zhenbuka2.com##+js(aopr,ad_load_success)
 chinaz.com###imgbd:style(background:none !important;)
 chinaz.com##.CCtop:style(margin-top:10px !important;)
 chinaz.com##.CClose
-cocomanhua.com##+js(aopr,jQuery.fn.html)
+!cocomanhua.com##+js(aopr,jQuery.fn.html)
 cocomanhua.com##+js(aopr,__cad.cpm_popunder)
-cocomanhua.com##+js(aopr,__ad)
+!cocomanhua.com##+js(aopr,__ad)
 dlkoo.com##+js(acis,setTimeout,testad)
 fpbsnc.com,lsntzzy3.com##+js(set,ps,noopFunc)
 ip.cn##img[src*="/img/"]:style(height:101px !important;)
